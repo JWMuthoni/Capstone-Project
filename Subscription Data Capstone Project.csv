@@ -1,0 +1,1001 @@
+User_ID,Subscription_Type,Join_Date,Churn_Flag,Age,Gender,Monthly_Viewing_Hours,Genres_Watched,Support_Tickets,Discount_Used,Payment_Method,Auto_Renew_Enabled,Last_Login_Date,Number_of_Devices
+1917ba4a-9eb2-4737-adf6-52c68429e60d,Standard,28/08/2024,1,64,Other,56.3,7,2,No,Credit Card,Yes,30/04/2025,3
+a7dddc1b-317d-4261-8f21-997c9188561f,Premium,25/09/2023,0,29,M,31.3,4,1,Yes,Mobile Money,No,11/4/2025,3
+99ba7fe2-b0f5-43ec-9501-93260544723d,Free Trial,3/11/2024,0,33,F,47.2,6,1,No,Credit Card,No,13/04/2025,1
+e43ac1e7-6d1e-4c72-a71a-76ef31a6ced6,Standard,19/08/2024,0,41,F,81,4,0,Yes,Mobile Money,Yes,21/04/2025,4
+d55d7e3f-b956-4423-b9da-3fc1eef1c0ef,Standard,4/5/2025,0,36,Other,45.7,6,3,No,PayPal,No,3/5/2025,5
+afb3ecbc-04a5-4a8c-8103-b27e10050ed1,Premium,19/08/2024,0,25,F,37.3,4,2,Yes,Mobile Money,No,15/04/2025,1
+8d1b6110-5bc6-47d2-967e-2867dcb925bc,Free Trial,12/11/2024,1,48,M,28.3,6,2,No,Mobile Money,No,26/04/2025,1
+08044339-574a-4411-88ba-f336cf3a4651,Free Trial,4/1/2024,0,38,F,37.1,3,1,No,PayPal,No,11/4/2025,4
+a8468096-a2f6-4b03-8355-edf331038a33,Standard,4/7/2023,1,34,Other,26.7,7,1,No,Mobile Money,No,13/04/2025,2
+a74fd531-d730-4263-9b2e-fdbe478b1b76,Basic,17/09/2023,1,40,F,44,3,1,No,PayPal,Yes,24/04/2025,1
+e766212f-8eb6-479c-9a96-24e5712b74be,Standard,28/08/2023,0,54,F,41.6,6,1,No,Mobile Money,Yes,29/04/2025,3
+a783cd98-da3e-4473-8a3c-a777d0556b8c,Standard,10/7/2023,0,33,F,7.6,7,1,Yes,PayPal,No,13/04/2025,3
+55df8df2-75dc-4fee-bd8d-4995b730cf12,Standard,20/10/2023,1,23,Other,39.7,1,0,No,Credit Card,No,6/4/2025,5
+b54591aa-2bd9-4705-adb4-5af162ee47ed,Standard,30/01/2024,0,25,F,56.1,6,0,No,Mobile Money,Yes,19/04/2025,1
+3153d573-432a-4f64-a678-68c1e814f9ce,Premium,20/10/2023,0,42,F,34,4,1,No,Mobile Money,Yes,13/04/2025,5
+8d5b8cdc-9db0-4eba-92af-bca6215ffd15,Free Trial,8/2/2025,1,35,M,30.2,2,0,Yes,Mobile Money,No,6/4/2025,1
+8c0f68d6-b2a0-434a-87b8-7c84db9329d8,Premium,27/03/2024,1,42,Other,19.3,2,0,No,PayPal,Yes,26/04/2025,4
+b8bfe614-388a-40e7-83ab-95c7ca2ea9b5,Premium,21/09/2024,0,29,F,12.1,5,0,Yes,Mobile Money,No,17/04/2025,1
+d42d4284-3946-4074-adc7-0063346f1a10,Premium,20/08/2023,1,32,Other,52.5,5,2,No,PayPal,No,22/04/2025,2
+f44e3d8c-91b4-4d91-b82f-98732b252c25,Standard,7/10/2024,0,43,F,37.3,3,3,Yes,Mobile Money,No,22/04/2025,3
+7366bf80-943a-40a9-b871-189bd3755d94,Basic,9/10/2023,0,58,F,51.6,5,1,No,Credit Card,No,14/04/2025,4
+5b948c28-36d1-475f-9d30-0ebf1f6010ff,Free Trial,24/05/2024,0,62,F,63,11,1,No,Mobile Money,Yes,12/4/2025,3
+5f59a48f-bd95-4b54-a3b0-94d7c407667e,Basic,30/06/2024,1,43,M,53.8,2,2,Yes,Credit Card,Yes,14/04/2025,5
+b1475032-3c59-493b-81d3-811782b9faec,Premium,20/05/2023,1,64,M,31.9,6,2,No,PayPal,Yes,13/04/2025,4
+41aabccf-5de1-4185-8164-d4634b4c0f2f,Premium,20/05/2024,1,49,M,42.2,5,0,Yes,Credit Card,No,5/5/2025,2
+a89242c0-8d4f-42f9-82ce-08d03f8d54c0,Basic,19/12/2024,1,27,Other,30.8,3,2,No,Mobile Money,Yes,30/04/2025,3
+f2e5df9b-2c32-47ad-aadc-d194be6445bd,Basic,25/11/2023,1,33,Other,29.4,4,1,No,Mobile Money,No,18/04/2025,1
+624a1974-b7d8-4f9b-b1ff-600364f7b8b2,Basic,28/08/2023,0,24,M,45.1,10,0,Yes,PayPal,No,17/04/2025,1
+9db098ba-67d8-4ecb-ab56-bf111f7e58f5,Premium,27/08/2024,0,34,Other,27.5,1,0,No,Mobile Money,Yes,24/04/2025,1
+eff6285a-a1c3-4ab0-bb1c-f98601169da8,Premium,10/4/2024,0,40,F,6.9,8,0,Yes,Mobile Money,No,21/04/2025,4
+db8cf893-501c-43a1-9a5b-86044f052a42,Free Trial,10/1/2024,0,43,F,26.7,3,1,Yes,PayPal,No,25/04/2025,2
+1dadb2ae-a886-4933-a013-881f09e365c3,Free Trial,11/7/2023,1,38,F,35.4,5,2,No,PayPal,No,20/04/2025,2
+3ee9948b-1544-4a12-8afa-d0a74c3b6a06,Premium,11/10/2023,0,39,M,62.8,4,0,No,Credit Card,Yes,18/04/2025,2
+969d7705-2ff8-412c-8bb3-2a8ee88aee03,Basic,14/09/2024,1,24,Other,32.6,11,0,No,PayPal,No,18/04/2025,3
+805daf32-f649-4d26-815a-9498e914c63d,Basic,14/12/2023,0,31,M,47.7,3,1,Yes,Mobile Money,Yes,9/4/2025,4
+60f2e4ac-0218-466d-9130-b2926e1ddba7,Free Trial,12/10/2023,1,32,Other,37.5,4,0,Yes,PayPal,No,12/4/2025,1
+91e54860-9e79-4832-b02d-22361057e4c4,Premium,11/12/2024,1,24,F,58.4,3,2,No,Mobile Money,Yes,26/04/2025,3
+aca700d5-43fa-4220-9f28-36294a3bb9ed,Free Trial,26/11/2024,0,26,M,57.4,3,1,Yes,Credit Card,No,10/4/2025,2
+116010b3-328e-48c0-b0cb-46e16e591a0d,Free Trial,8/12/2024,0,68,Other,57.6,8,2,Yes,PayPal,Yes,24/04/2025,1
+c42b7643-8e04-408d-8844-dfd649e91184,Standard,21/05/2024,0,65,Other,14,1,1,Yes,Mobile Money,Yes,4/5/2025,4
+18fd03bc-a42a-48f4-bea4-7f420bb12b5a,Standard,28/10/2024,0,25,F,43.1,5,0,Yes,PayPal,No,24/04/2025,5
+50d41a8e-1aaf-4131-acd7-6ac06a76981a,Standard,15/11/2024,1,67,M,51.4,7,1,No,PayPal,No,8/4/2025,2
+f6152008-a51a-4fc1-8170-b72c92e6172f,Basic,16/02/2025,0,40,M,45.7,3,0,No,PayPal,No,16/04/2025,2
+80b6cd83-1512-4dc4-b208-0ed479a0e28e,Premium,3/7/2023,0,46,M,49.5,7,0,No,PayPal,No,2/5/2025,2
+3a691819-09dd-4bfa-88d1-b2d4debc8815,Premium,27/08/2023,1,35,F,40.9,5,1,Yes,Credit Card,Yes,14/04/2025,2
+d6056767-fd6c-491c-bd4e-e7331941048f,Premium,14/01/2025,0,48,M,28.8,7,1,Yes,Mobile Money,No,4/5/2025,1
+4237f983-2193-4856-b851-73ea450ca7b1,Premium,19/11/2023,0,47,F,14.5,5,0,Yes,PayPal,Yes,24/04/2025,4
+cf83dd7a-aafa-40cf-b2a4-458d34c82db9,Standard,22/10/2023,0,69,F,30.3,7,3,Yes,Mobile Money,No,16/04/2025,3
+b420c12f-a257-4959-8921-6174e5ff62ee,Basic,3/10/2023,0,56,F,80.2,5,0,No,Credit Card,Yes,27/04/2025,1
+66bb8a49-a306-4772-ae5d-fc2026197d96,Basic,25/11/2023,0,52,Other,32.7,4,2,Yes,Mobile Money,Yes,21/04/2025,4
+7e5619ce-4824-4e08-975c-38e28e973080,Standard,12/2/2024,1,35,M,10.6,5,1,Yes,Mobile Money,Yes,22/04/2025,3
+a322c61e-820a-427f-8326-39c99220d4a3,Basic,25/03/2025,0,59,M,51,11,5,No,Credit Card,No,1/5/2025,2
+6faac67d-0063-4560-992b-58a42eba9975,Standard,25/03/2024,0,56,F,52.8,7,1,No,PayPal,No,7/4/2025,4
+23f28fcb-2330-4b62-b239-4a1b419e7e48,Premium,10/10/2023,0,34,F,59.3,6,1,No,Mobile Money,Yes,15/04/2025,2
+78bf73a3-ca4b-424e-8e9f-e1c830cc4324,Standard,11/10/2023,0,31,M,47.1,3,1,Yes,Mobile Money,Yes,10/4/2025,4
+95e14685-dbae-48ec-b8a2-ca5713f7647e,Premium,31/03/2025,0,48,F,52.7,0,2,Yes,PayPal,Yes,28/04/2025,5
+e830fa22-c84d-4805-97a1-1f81d0810e55,Premium,22/11/2024,1,41,M,67.6,10,1,Yes,PayPal,Yes,2/5/2025,2
+98820b5d-d388-45cd-bb72-220c6a48fd49,Free Trial,23/08/2024,0,52,Other,28.8,5,1,Yes,Mobile Money,Yes,15/04/2025,2
+81c71757-693a-4947-8f34-b8e6dee0ef18,Standard,20/07/2023,1,61,F,25.8,5,1,Yes,Credit Card,No,25/04/2025,2
+069aecfa-1dce-4735-a947-b59b829e560e,Free Trial,25/09/2024,1,62,M,23.6,3,0,Yes,PayPal,Yes,24/04/2025,1
+1857c1c9-7141-4aba-acf5-a9d15c154832,Standard,31/05/2023,0,51,F,36,4,1,No,PayPal,No,29/04/2025,3
+8573c9e2-1a6a-4cfd-a8ea-4001330967a0,Standard,26/11/2024,0,20,M,61.5,2,1,Yes,Credit Card,No,27/04/2025,2
+4da29da9-ee03-4ff3-b6ec-5ee239e8c822,Free Trial,6/7/2024,0,54,M,47.9,2,1,No,Mobile Money,No,24/04/2025,2
+07ca623b-0393-4081-847a-11a2c09d0b64,Free Trial,24/03/2024,0,60,F,47.3,7,0,No,PayPal,Yes,9/4/2025,1
+c12a9c07-97b3-4af2-9dc0-63a6bd384341,Standard,1/8/2024,1,57,Other,12.7,3,0,No,Mobile Money,Yes,8/4/2025,1
+bcbde5e5-16d9-428e-9adc-ffb37626a03d,Basic,16/01/2024,0,43,M,29.6,1,1,Yes,Mobile Money,Yes,23/04/2025,5
+d50f8579-fac8-4e9d-b756-8a2033902ab4,Premium,17/12/2023,0,40,M,12.5,3,2,Yes,Mobile Money,Yes,4/5/2025,4
+78025cb8-9901-47c7-9bce-8ac019c5d4b9,Free Trial,4/12/2023,0,61,M,57.6,7,0,No,Credit Card,No,2/5/2025,2
+72ca17fc-1dd4-49f4-94f2-14185f5db7b5,Premium,12/12/2023,0,56,Other,63.8,5,0,Yes,Mobile Money,No,3/5/2025,4
+e0a26190-f0aa-4c5f-a355-2ea6a905668d,Basic,22/08/2024,0,32,Other,51.7,5,0,Yes,Mobile Money,No,28/04/2025,1
+3fc8b615-3592-4a92-8aa4-689025873f88,Basic,13/09/2023,0,66,F,25.2,4,0,No,PayPal,Yes,7/4/2025,1
+0e0eb74b-04b2-439e-b995-11befe24f43a,Basic,27/07/2023,1,21,Other,62.2,5,0,Yes,PayPal,Yes,3/5/2025,5
+58b7a705-3d1b-4f83-b17b-bd2cda569b43,Free Trial,26/11/2024,1,46,F,36.2,5,1,Yes,Credit Card,Yes,30/04/2025,3
+b24abd28-452a-4198-adea-ca8e125c2f3d,Basic,24/03/2024,0,39,F,21.8,3,1,Yes,Credit Card,Yes,29/04/2025,1
+980f105b-cb07-4295-aed4-08662583154f,Free Trial,7/9/2023,0,42,Other,25.5,3,2,Yes,PayPal,Yes,6/4/2025,2
+87e84161-301a-4b9b-973c-9c6fa4f21357,Basic,11/1/2025,0,30,F,33.5,6,0,No,PayPal,Yes,27/04/2025,5
+a3bad747-3426-4877-9468-d9219357c2bf,Premium,14/09/2023,1,35,Other,40.7,6,0,No,Credit Card,No,17/04/2025,3
+7a4f47a0-3498-437d-886f-1b3682f090c5,Premium,27/07/2024,0,50,F,37.6,4,0,Yes,Mobile Money,No,22/04/2025,5
+622ee1c0-3fbc-437a-9242-c350c1c8a143,Standard,11/9/2024,1,33,Other,18.8,9,0,Yes,Credit Card,Yes,11/4/2025,1
+2821231f-681c-4379-a5c0-d23d462b9f85,Premium,6/9/2024,0,62,Other,58.2,6,1,Yes,Mobile Money,No,16/04/2025,3
+6806efbf-6594-40a0-b0a4-6ac251a6018b,Standard,15/05/2024,0,59,F,37.7,5,0,No,PayPal,No,4/5/2025,4
+6e206e4e-ae7f-49d4-be70-fedcbb241ce0,Premium,20/05/2024,0,61,M,29.3,5,2,Yes,PayPal,No,28/04/2025,3
+6994efc5-0e95-49ef-bbea-ef4abfcf3813,Free Trial,3/10/2024,0,19,F,56.7,4,1,Yes,PayPal,No,16/04/2025,2
+48a47e76-0b4a-4e48-b04c-43eb2c05987a,Premium,11/10/2024,1,52,Other,22.2,10,0,No,Mobile Money,Yes,27/04/2025,4
+af49e55f-61e3-45be-8eed-f21c4b7ca4e3,Standard,27/11/2023,1,59,M,15.6,6,1,Yes,Credit Card,No,17/04/2025,4
+1fb34c0d-04fd-490a-a9c7-6516fc9d40bf,Standard,25/01/2025,0,51,F,59.1,2,1,No,Mobile Money,Yes,26/04/2025,2
+62dfc106-ca9d-485a-a37e-a81e26aac4c2,Basic,14/01/2024,0,47,F,68.4,4,1,Yes,Credit Card,Yes,11/4/2025,4
+9380e535-a944-4af6-a390-08bb9c945f92,Free Trial,21/09/2023,1,30,F,33.1,3,1,No,Credit Card,No,3/5/2025,1
+ccf4fbda-f6bd-4ab3-b615-622588cf3ba4,Premium,5/11/2024,1,30,M,39.3,2,0,Yes,Credit Card,Yes,11/4/2025,3
+1b017f96-6a24-4d1a-96d6-8a707cefa4ae,Basic,24/12/2023,1,35,Other,22.8,5,2,Yes,PayPal,No,19/04/2025,3
+5b2b2ef4-acb2-4725-b098-4de65e1e2980,Premium,7/2/2025,1,49,F,40.1,6,0,No,Credit Card,Yes,6/4/2025,2
+f3bde691-ab2e-40c4-a1ea-6c26166727d3,Premium,19/02/2024,0,49,F,32.9,5,0,No,PayPal,Yes,20/04/2025,1
+ddb6e631-d08b-4353-a2c6-1b0931f06650,Basic,18/01/2025,1,52,F,38.5,10,1,No,Credit Card,No,17/04/2025,4
+0aae42bc-480a-416d-8063-baf5441255f3,Basic,21/01/2025,0,56,F,46.1,5,2,No,Credit Card,No,20/04/2025,3
+00c5c624-2d70-47b8-8d9e-cd1e38e11ca8,Basic,7/6/2023,1,63,F,23.5,5,1,No,PayPal,Yes,17/04/2025,3
+4af25034-87fa-46d0-b610-faebb4f30952,Basic,5/4/2024,1,69,Other,34.6,4,1,Yes,PayPal,No,11/4/2025,3
+ba233686-c2a1-4cac-9219-50cd9f8dfc1f,Basic,19/05/2023,1,46,Other,12.9,4,2,No,Mobile Money,Yes,22/04/2025,3
+f7128783-f2f9-4749-85dd-ac98593fdeaf,Premium,18/10/2023,1,66,F,34.7,3,1,No,Credit Card,No,21/04/2025,5
+cb5664b5-f3e0-4005-9b6f-c35535e38eb8,Basic,29/06/2023,1,46,M,38.6,6,2,No,PayPal,Yes,26/04/2025,2
+20be796b-8d5d-4bab-a616-d156927c8f6d,Free Trial,29/07/2023,0,61,Other,43.4,4,0,No,Mobile Money,Yes,24/04/2025,4
+144a17f2-c1ac-41ed-99c3-c91e0ed13dd4,Standard,10/10/2024,0,33,M,43.6,2,0,Yes,Mobile Money,Yes,3/5/2025,4
+1b44547a-6480-4a1c-aee4-3e7ddb6e9594,Basic,24/04/2025,1,61,Other,53.6,9,1,Yes,PayPal,Yes,13/04/2025,2
+93f53331-485e-4ab2-bc97-5df8901572b3,Basic,14/01/2025,1,64,F,16.9,5,1,Yes,Credit Card,Yes,19/04/2025,1
+12daf2b0-be20-4b6f-80e5-a82e14c619fb,Premium,10/10/2024,0,27,Other,17.7,9,1,Yes,Mobile Money,No,25/04/2025,2
+2d20e275-cf19-4aed-a0dc-23ef88cbd852,Basic,15/03/2025,1,47,F,47.9,5,0,Yes,Credit Card,Yes,20/04/2025,3
+748f0b1f-403c-420b-85d4-bd67966a8a97,Basic,4/1/2024,1,42,Other,9.4,5,1,No,Credit Card,No,5/5/2025,3
+beaa8c10-00ea-4d62-8693-1c8168b64986,Basic,6/4/2024,0,56,F,42.7,1,0,Yes,Mobile Money,No,27/04/2025,2
+5af6db4a-132d-436f-97cf-6e6b047fc82c,Premium,23/09/2024,1,37,F,22.3,5,0,Yes,PayPal,Yes,15/04/2025,2
+7806c0a1-106e-4854-9c7b-6ad9e74f471c,Basic,29/04/2025,1,22,F,63.6,8,0,No,Credit Card,Yes,28/04/2025,4
+d40c6088-cc69-40d0-9bb9-361634d1ec8f,Standard,13/11/2024,0,18,F,43.8,6,2,No,PayPal,No,17/04/2025,4
+55399f64-8164-4a04-aba5-6c74efe45de0,Premium,7/3/2025,0,47,M,36.7,2,2,Yes,Mobile Money,Yes,17/04/2025,5
+b5a4454f-f324-4d8a-948d-2fd247bf1dee,Standard,29/10/2024,0,66,F,58.4,5,2,Yes,Credit Card,Yes,2/5/2025,5
+35f8566e-a24b-41a8-a0f6-0dd3aa341127,Premium,18/10/2024,1,20,M,24,5,0,No,PayPal,No,9/4/2025,3
+08e9f5db-481a-4b5c-bec1-95eefa8a804a,Basic,3/6/2023,0,62,M,26.9,4,0,Yes,PayPal,No,24/04/2025,5
+d8fd6fcf-5ad9-4daa-931a-090e195737a4,Standard,16/09/2024,0,31,F,21.1,6,0,No,Credit Card,No,27/04/2025,5
+bfb86c6a-acff-4964-8034-2591e56bccfb,Premium,26/11/2023,0,47,M,27,5,1,No,PayPal,No,28/04/2025,1
+8af9dd4c-7c52-480b-b8e6-6f9117a7a89f,Free Trial,20/03/2025,0,67,Other,40.9,6,2,Yes,PayPal,No,21/04/2025,2
+c6c36e34-e35a-4c58-926d-5270eaff9cca,Basic,21/08/2024,0,21,F,47.4,5,1,Yes,Mobile Money,No,8/4/2025,4
+fc86417f-0c75-43a8-999e-f27f91202ca5,Premium,29/11/2024,0,35,M,54.4,4,0,Yes,Mobile Money,Yes,12/4/2025,5
+b84f05e3-3095-42d4-b956-2c7a81af9ae5,Free Trial,25/12/2024,1,54,F,12.6,7,1,No,PayPal,No,24/04/2025,4
+7fef1958-62c3-4c97-a059-78310eeb9e2e,Premium,11/10/2024,1,42,F,37.4,5,0,No,PayPal,No,3/5/2025,5
+f3daf817-fc91-4e21-8ffc-5a4f9c4d8409,Free Trial,23/05/2024,0,65,F,23.4,7,2,Yes,Credit Card,Yes,7/4/2025,5
+bb59b996-7920-4ff2-85b1-07158487cb24,Basic,4/10/2023,0,18,M,36.9,6,2,Yes,Mobile Money,Yes,29/04/2025,3
+23d96969-f2af-4f3b-9644-f873b5ecb82e,Standard,3/9/2023,0,63,Other,75,4,0,Yes,Credit Card,Yes,21/04/2025,1
+7ee8fff5-8ad1-42ac-a971-6a8909559cf6,Free Trial,5/4/2025,1,32,Other,44.4,8,1,No,PayPal,Yes,12/4/2025,2
+91c7cff8-4a5a-4afa-9fbf-f3ca64142bc9,Premium,15/10/2024,1,26,M,53.5,4,0,No,Credit Card,Yes,28/04/2025,2
+95fa6d07-c3ce-494e-a914-994f2e819f0b,Basic,24/12/2024,1,32,F,69.4,3,2,No,PayPal,Yes,10/4/2025,3
+c73a781d-794f-4651-97e2-91c316a4f57e,Free Trial,29/06/2024,1,66,M,56.9,5,0,Yes,Mobile Money,No,4/5/2025,3
+3b98d66d-ab17-41c9-a26e-5a9c48b85a55,Premium,28/09/2024,1,41,M,33.3,10,0,No,Mobile Money,Yes,7/4/2025,2
+e622f233-0c66-491e-8b73-fcd3f3ef0b06,Premium,19/06/2024,1,21,M,20.9,6,1,No,PayPal,Yes,2/5/2025,2
+9f49078b-91f8-4374-8b78-9cc27dc21c05,Premium,26/12/2023,1,29,F,39.5,4,2,Yes,Mobile Money,Yes,30/04/2025,1
+28684fba-384f-4678-97a1-815f8b1b5184,Free Trial,3/8/2023,1,54,M,31.5,3,3,No,PayPal,Yes,11/4/2025,5
+754b2014-2cc1-49c1-8caa-682ab26aa654,Free Trial,8/4/2024,1,54,F,17.1,3,3,Yes,Credit Card,No,16/04/2025,1
+5334e427-b3f6-48e0-a524-28c5ab11de98,Free Trial,8/4/2025,0,60,M,43.6,5,1,No,PayPal,Yes,3/5/2025,2
+5b9a60b0-4421-436c-ab7f-352351c9865e,Standard,6/8/2023,0,23,Other,44,2,0,Yes,Credit Card,Yes,30/04/2025,5
+7baeac48-04f8-43c6-bacf-53650cad0e54,Free Trial,3/6/2023,0,56,M,66.5,6,1,Yes,PayPal,No,10/4/2025,2
+4449b65e-acd1-4aca-8e4e-25817dd03cde,Free Trial,15/04/2025,0,63,M,34.6,2,1,No,Mobile Money,No,3/5/2025,1
+e5772340-fa5e-4309-b33b-921a9b6d3bad,Free Trial,3/1/2025,1,41,Other,44.2,5,2,Yes,PayPal,No,20/04/2025,1
+d187cecb-e44f-4fd3-962c-7dbb6b3d0899,Standard,31/08/2024,1,28,F,30,2,0,No,PayPal,Yes,17/04/2025,1
+fa58324d-b342-4de0-925f-af73c7f818f4,Free Trial,28/05/2024,0,30,F,53.1,6,1,Yes,PayPal,No,24/04/2025,5
+8795370b-a15c-429a-a73a-62d43d20b1be,Premium,17/10/2023,1,51,M,38.1,3,3,Yes,Mobile Money,No,28/04/2025,4
+0eb0b4b7-58b4-4557-b530-7d4bf3258c9b,Free Trial,12/5/2023,0,42,Other,22.4,5,0,Yes,PayPal,No,8/4/2025,4
+8928a1e0-f773-4c39-a789-0eb015af4d8c,Premium,5/3/2025,1,24,F,39.8,2,1,No,Mobile Money,Yes,26/04/2025,2
+2c53516d-5fba-4670-9301-55f3e88b770b,Premium,2/7/2024,0,69,M,45.9,6,0,Yes,PayPal,Yes,10/4/2025,5
+bd91a43c-c22d-41c6-ac11-603b9e0d00a3,Premium,10/3/2025,1,21,Other,43.8,6,1,Yes,Credit Card,No,29/04/2025,3
+e34bd007-1230-4a87-bdda-3ba106fadcc4,Standard,14/10/2024,1,25,F,55.7,7,0,No,PayPal,Yes,10/4/2025,4
+f309dccf-e44f-4c59-8f4b-485718e4200d,Standard,15/09/2024,0,37,F,18.3,6,1,Yes,Credit Card,Yes,13/04/2025,5
+50530aac-aac1-4c02-a3b5-ca28d25bdeff,Standard,2/10/2023,1,46,Other,27.4,6,2,Yes,Mobile Money,Yes,25/04/2025,5
+297c0428-12e5-435d-bfbb-452b26f26136,Free Trial,26/04/2025,0,68,Other,49.6,4,2,Yes,Mobile Money,Yes,11/4/2025,4
+2594e91e-d264-49aa-9ad5-297bf9a91811,Premium,28/11/2023,0,62,Other,29.1,4,0,Yes,PayPal,Yes,18/04/2025,5
+5a74ccef-f4ae-4c34-9870-e6b0ac445786,Standard,16/06/2023,0,63,Other,43.6,7,2,No,Mobile Money,No,29/04/2025,5
+4b193a34-0438-4124-954e-6ba42f024e7f,Standard,23/10/2024,0,27,M,3.7,5,3,Yes,PayPal,No,1/5/2025,4
+786e9f43-bc4e-4742-a3d6-272688075283,Free Trial,25/01/2025,1,60,Other,80.7,5,0,Yes,Mobile Money,No,11/4/2025,1
+18084a3b-d4d7-47b2-9f5a-14b0a3e15a6e,Standard,18/08/2024,1,51,F,36,8,1,No,Credit Card,No,30/04/2025,2
+bd21ad08-6a53-459b-a3bc-9c3e43a9366a,Free Trial,23/04/2025,1,43,F,57.9,4,3,Yes,Mobile Money,Yes,8/4/2025,3
+1c9efbdf-f9f0-4757-876a-d6244d0bcb9a,Basic,9/8/2023,0,58,M,34.9,2,1,Yes,Credit Card,No,18/04/2025,2
+6d8ff434-e7ce-4770-87d8-f587cb1b8a08,Standard,12/9/2024,1,66,F,46.2,3,0,No,PayPal,No,4/5/2025,1
+874a3762-f1ad-4d7d-944d-a60a2b443de5,Basic,3/8/2023,0,20,F,62.4,4,2,No,PayPal,Yes,30/04/2025,1
+8c13192d-7332-43a1-94dc-5da3c20dfff4,Free Trial,4/12/2023,1,23,Other,57.5,6,0,No,PayPal,Yes,8/4/2025,5
+384f4ef9-d9e5-40c8-afdb-b8c0bb9833ef,Premium,11/10/2024,1,22,F,36.9,9,2,No,Credit Card,Yes,13/04/2025,2
+daff7db7-116e-4fe9-a07c-6c4320721859,Standard,12/12/2024,1,22,M,38,3,2,Yes,PayPal,Yes,12/4/2025,1
+54d5c2b8-804d-4e86-83d7-3805a7b8f6a9,Free Trial,2/3/2025,0,64,Other,55.1,5,1,No,PayPal,No,10/4/2025,2
+64d63591-2ad7-4822-9007-0654f9c215d7,Premium,12/8/2023,1,40,Other,75,3,0,Yes,Credit Card,Yes,30/04/2025,1
+ae9dc824-8ebc-4c89-bb10-f6f4fd7a0ef7,Premium,26/06/2024,1,66,M,42.9,2,1,No,Mobile Money,Yes,15/04/2025,3
+1135dac8-461e-48f3-a0ab-fbd13c16eb8e,Basic,16/10/2023,0,26,Other,69.4,4,0,Yes,PayPal,Yes,12/4/2025,1
+4beb7a3b-43fc-4de7-88bf-34772d4b466f,Free Trial,19/06/2024,1,52,Other,36.4,9,1,No,Mobile Money,Yes,17/04/2025,2
+32f08129-97df-44ce-be31-5f57397a2786,Premium,28/12/2023,0,37,M,54.3,4,4,No,Mobile Money,Yes,26/04/2025,5
+a1fdb5d8-9344-40c7-8651-fafe0038b526,Standard,21/05/2024,1,66,Other,56.5,5,1,Yes,PayPal,Yes,26/04/2025,2
+b59c6ce6-dfc8-42d6-bd71-165abbb94fad,Standard,26/06/2023,0,59,M,33.9,8,1,No,PayPal,No,21/04/2025,4
+a2d8a77b-ec1c-42aa-9ee9-7cb9429685cc,Basic,24/12/2023,0,52,M,28.8,8,0,No,Credit Card,No,13/04/2025,2
+929f6a3e-8b34-4536-937c-abd2aab8dd9f,Premium,6/7/2024,1,67,F,57.2,5,1,No,Credit Card,No,5/5/2025,3
+14bae758-0a1d-497b-bf46-d5a693f6d473,Free Trial,12/11/2024,0,35,F,32,3,2,Yes,PayPal,Yes,3/5/2025,3
+2dc87352-2b97-4c82-8ef5-6e97cf2da52b,Standard,18/09/2024,0,34,Other,26.6,9,2,No,Mobile Money,Yes,15/04/2025,3
+c0187d36-0140-477f-9b13-1ab0e0153f32,Premium,25/03/2024,0,41,Other,29.7,2,0,No,Credit Card,No,12/4/2025,1
+ac1c5cd5-84ac-44a8-9dd5-b0e0f240bb72,Premium,2/6/2023,0,20,M,32,8,1,Yes,Credit Card,No,3/5/2025,3
+f78896c1-78d3-40ac-aba8-8ba14d25306d,Basic,24/05/2023,0,49,Other,52.8,7,0,Yes,PayPal,No,4/5/2025,2
+f50ac285-f340-42cc-9c59-8af43b984b03,Standard,4/5/2024,0,52,M,47.7,6,3,No,PayPal,No,11/4/2025,5
+fe1c9fab-b3b9-4322-a3f1-816e8f30d69b,Standard,9/7/2024,1,55,M,50.7,9,1,Yes,PayPal,Yes,29/04/2025,3
+e23efa62-6f4a-42df-91f0-3e68fa522df9,Free Trial,5/6/2023,0,30,Other,46.3,3,1,Yes,PayPal,No,7/4/2025,2
+c3ea0318-5daf-4393-b835-dde13ba890e2,Standard,21/03/2025,0,64,M,31.1,6,1,Yes,Credit Card,Yes,5/5/2025,1
+a0d173c6-6418-42c2-bbf5-a61a881d5431,Free Trial,1/11/2024,1,42,F,50.5,7,0,No,Credit Card,Yes,17/04/2025,1
+353d0391-6902-477d-ac8e-a36ee853ab79,Standard,9/4/2025,1,26,Other,57.7,7,1,No,Credit Card,Yes,28/04/2025,5
+caa4e24c-f95a-4987-b956-6d60bc243334,Basic,4/5/2025,1,21,F,48.8,5,0,Yes,Mobile Money,No,23/04/2025,5
+bac1b972-082e-4301-9d2b-c681107c142b,Standard,22/06/2024,1,31,Other,46.7,5,1,No,Credit Card,No,24/04/2025,2
+0f2f894f-bcb5-4c95-ada6-5db521d0a7ad,Free Trial,14/10/2023,1,54,M,28.5,1,0,Yes,Credit Card,No,27/04/2025,5
+94981b93-1715-4814-a95e-883b3857b2bb,Free Trial,14/02/2025,1,51,Other,43.2,7,1,No,PayPal,Yes,24/04/2025,5
+be5006b5-2f4d-4e19-bd9e-b27a868a0b64,Basic,11/4/2025,1,28,F,27.7,4,1,Yes,Credit Card,Yes,23/04/2025,1
+ef03614f-a096-43de-b047-a612a612a61c,Standard,26/04/2024,0,58,M,39.6,7,1,No,Credit Card,No,30/04/2025,2
+6e180651-3cbd-4e1e-ae10-99c77378cd25,Standard,16/06/2024,0,20,Other,15.4,5,1,Yes,Credit Card,Yes,20/04/2025,5
+b23a6fa7-43fa-4920-84f4-a76cb8260cf1,Basic,22/09/2024,1,45,Other,15.5,5,3,No,PayPal,No,9/4/2025,2
+b7ff57c3-9db6-4c1c-80e7-717e465063ff,Standard,29/05/2024,0,46,Other,37.1,3,0,No,Credit Card,Yes,30/04/2025,3
+6d85277f-ccfa-4a69-887d-cbce4c2da751,Standard,5/6/2023,0,26,F,31.8,5,1,Yes,Credit Card,Yes,21/04/2025,1
+7d379196-42cd-4515-8b78-63b947ceee7b,Free Trial,18/08/2023,0,20,F,41.6,5,3,No,Mobile Money,Yes,21/04/2025,1
+f3b230de-23ad-4759-8cf1-d62dfbb248cf,Standard,16/05/2024,1,42,Other,38,4,3,No,Mobile Money,Yes,26/04/2025,1
+e4b4d704-de30-4a6d-9e5e-cdb1fea810d7,Standard,29/07/2023,1,51,M,40.5,3,0,No,Mobile Money,Yes,20/04/2025,4
+bb57fe84-328d-40a4-834c-b695ac554c06,Basic,25/06/2023,0,29,M,49.1,3,1,No,Mobile Money,Yes,16/04/2025,2
+374d26ef-abd1-4167-ac15-d2030d7db80e,Basic,2/11/2024,1,59,F,33.1,5,2,No,PayPal,Yes,23/04/2025,3
+17a3c9f1-6a99-47d5-ac48-8bdb947b7ef7,Premium,18/03/2025,0,26,M,36.7,10,1,No,Mobile Money,No,30/04/2025,5
+683c151b-780e-43d7-80e0-51c1b133aeba,Free Trial,15/03/2025,0,32,F,61.8,2,0,No,Credit Card,Yes,8/4/2025,3
+be8351d4-22b0-4451-ae48-e63794c81ecb,Standard,25/05/2024,0,57,Other,40,5,0,No,Mobile Money,Yes,29/04/2025,2
+a75f4f11-cb98-4657-a04f-1c0bb579a41d,Standard,17/02/2024,0,42,F,37.3,3,0,Yes,PayPal,No,11/4/2025,1
+4fb77c27-2565-47bb-bbda-3d58ba0c398c,Premium,23/11/2023,1,22,F,41.2,4,1,No,Mobile Money,No,29/04/2025,4
+b377cf25-853c-49d4-9225-d61be90a08a3,Standard,27/10/2023,1,28,Other,37.6,6,1,Yes,Mobile Money,No,6/4/2025,2
+52121765-5e06-4441-943b-cc75d695d6fb,Free Trial,3/11/2024,1,51,M,29.4,3,1,No,PayPal,No,16/04/2025,2
+6beacc78-5528-4421-8943-5d04bc301957,Premium,21/08/2024,0,41,F,25,4,0,Yes,PayPal,Yes,15/04/2025,5
+e1ec2b9b-e4e0-477c-9d2f-8effab5f3340,Free Trial,28/07/2024,1,32,F,28.5,4,0,No,PayPal,Yes,11/4/2025,3
+c2a3c9a3-806b-478c-b464-5e6a75fb8c23,Premium,7/10/2023,0,55,Other,53.1,5,1,Yes,PayPal,No,12/4/2025,3
+679301f6-4c22-4b91-aa0e-07a2abf64b98,Premium,28/06/2024,1,25,M,30.6,8,2,Yes,PayPal,Yes,15/04/2025,5
+710b7217-a584-4fd1-8f12-f81bbd30df4c,Basic,19/06/2024,0,22,F,37.7,5,1,No,PayPal,No,7/4/2025,4
+6557fcc1-196a-4959-a610-c4cb3ef7b664,Free Trial,5/5/2024,0,65,Other,50.5,6,3,Yes,Credit Card,Yes,27/04/2025,1
+ad3d6807-cbf4-4902-b847-49f8506b02c2,Standard,16/04/2024,0,43,F,35.8,3,1,No,Mobile Money,Yes,1/5/2025,1
+e65c4135-fc7b-44a9-8d7f-7a9314970b42,Standard,19/09/2023,1,35,Other,49.5,4,0,No,Mobile Money,Yes,3/5/2025,4
+35fc47d5-bff7-4a92-9989-3fc2c4a053a2,Free Trial,26/06/2024,1,23,M,16.9,5,0,Yes,PayPal,Yes,14/04/2025,5
+2fa1adc5-8551-45fd-87dc-0b6acd401800,Standard,15/11/2024,1,54,M,38,6,0,No,PayPal,Yes,26/04/2025,2
+49f2ee1f-c0ff-41d5-8a27-3f1254a5bb65,Standard,23/02/2025,1,65,M,41.2,7,0,Yes,Credit Card,No,15/04/2025,3
+e7dde6a5-057e-4d91-8a93-c123153a07f6,Free Trial,13/06/2024,0,30,M,40.3,5,1,Yes,Credit Card,Yes,19/04/2025,2
+363325b1-8ae9-44be-b205-61c5b3b867ae,Premium,23/06/2023,1,45,F,15.2,2,3,No,PayPal,Yes,11/4/2025,3
+88e75f1b-3a1e-4919-b737-bfc5a650a95c,Free Trial,27/04/2025,1,22,F,58,6,0,No,Credit Card,Yes,16/04/2025,2
+f9d6f8b3-d511-40a0-9317-39e07aad5bb7,Premium,9/11/2024,0,30,M,27.2,4,1,No,Credit Card,Yes,26/04/2025,5
+b9ad0805-ae14-43cc-8100-f6ec3187336a,Standard,28/12/2023,0,34,M,45,2,0,No,PayPal,Yes,16/04/2025,5
+399ad937-0cb3-47c9-9f1d-87a7ef95f43e,Standard,11/12/2024,0,67,M,40.1,4,0,No,PayPal,No,1/5/2025,4
+728756b4-4021-4b68-98f1-959dc1f6ce04,Standard,7/7/2023,1,57,F,55.1,2,0,Yes,PayPal,Yes,29/04/2025,2
+6b90ea58-ad80-473c-bff1-8b330c06deaa,Basic,7/11/2024,0,62,M,72.8,3,1,Yes,PayPal,No,29/04/2025,2
+0469a9ca-75c2-48f0-b92e-4671dfbfe8a4,Premium,13/07/2023,0,49,M,20.6,4,1,No,Mobile Money,Yes,21/04/2025,4
+a210dea1-2653-4014-8dbc-0079063e5e3e,Basic,19/06/2023,0,46,M,30.3,7,1,No,Mobile Money,Yes,29/04/2025,4
+04fd1762-6763-4885-9b9f-5bf0538fba1c,Basic,20/10/2024,1,68,Other,42.8,5,0,No,PayPal,No,22/04/2025,5
+cf6b38bb-9a77-4c63-a687-733e2cbd5170,Free Trial,15/07/2023,0,20,M,23.4,5,0,Yes,Credit Card,Yes,16/04/2025,5
+22950e09-ff9f-4e53-a526-3e222e4fa2fa,Basic,30/11/2023,1,57,Other,51.7,7,3,Yes,PayPal,Yes,4/5/2025,2
+91e61a85-d449-47f0-8439-a3d0c38083e7,Free Trial,29/04/2024,1,51,Other,52.7,9,1,Yes,Mobile Money,No,3/5/2025,5
+3607ad61-1139-4833-bb59-e911848569f1,Free Trial,30/07/2024,0,57,M,48.4,7,1,No,Credit Card,Yes,19/04/2025,5
+8e7c54c1-ca9b-40ba-b75e-bfd25d828b74,Basic,31/05/2023,0,44,Other,43.5,6,1,No,Mobile Money,No,4/5/2025,2
+78e903e2-8c0b-4514-a90c-e94e6c59b853,Premium,2/6/2023,1,30,M,60.5,6,1,Yes,PayPal,No,1/5/2025,4
+a9d40bec-b658-4468-860d-d024fd651186,Premium,2/1/2025,0,62,F,22.7,9,1,No,Mobile Money,No,26/04/2025,2
+9be0f777-1674-4f4a-a552-24a51d6a9a27,Premium,25/11/2024,0,50,F,41,2,0,No,Mobile Money,Yes,2/5/2025,1
+dfbcc245-fae9-42f3-84ff-30b07c50ad66,Premium,10/4/2024,1,23,F,28.9,3,2,Yes,Mobile Money,Yes,25/04/2025,2
+d01c0d37-5979-45f8-8ebc-a6d4dfacf450,Premium,24/02/2025,1,41,F,53.3,9,1,Yes,Credit Card,No,2/5/2025,1
+e308aae9-a7b3-4818-bdc9-7b61c017d05c,Basic,21/05/2024,0,36,Other,12.5,3,3,No,Mobile Money,Yes,10/4/2025,2
+5804749c-cf37-4615-abf7-58dc3c6a5a14,Basic,8/10/2023,1,33,M,39.6,8,0,Yes,Credit Card,No,10/4/2025,1
+7ecd63ba-5660-4cdf-9f95-a23447ffb56a,Standard,7/10/2024,0,57,M,45,5,1,No,PayPal,Yes,8/4/2025,1
+177896bd-f9b1-4d66-96a6-25fcc6c9f432,Premium,17/07/2024,0,45,M,25.8,4,3,Yes,PayPal,No,24/04/2025,2
+b4b05939-7b7e-4f1b-b5a3-26481f9b9277,Basic,20/09/2023,0,50,F,30.6,9,0,Yes,Mobile Money,Yes,1/5/2025,5
+6d2f4c18-91d3-4609-946b-72b1ed1946a0,Standard,19/02/2024,1,65,F,40.2,2,0,No,Credit Card,No,15/04/2025,3
+f828f01e-d161-4a75-9deb-2fdcaff624f8,Premium,13/10/2023,0,58,M,54.3,5,1,No,PayPal,Yes,22/04/2025,5
+849a67b5-dd85-4bea-8631-e89c19946bde,Free Trial,6/9/2023,0,30,F,24.5,10,0,Yes,Credit Card,No,1/5/2025,1
+27804091-572a-42f6-a7fd-148a4967778a,Standard,12/9/2024,0,60,M,27.1,5,2,No,Credit Card,Yes,15/04/2025,2
+dff22bc7-ac50-4aa1-bce3-310067f0951d,Basic,9/5/2023,1,62,M,56.9,4,3,Yes,Mobile Money,No,20/04/2025,2
+e7341f4a-adf7-4c82-8b21-7552e2071379,Free Trial,5/11/2024,1,42,M,35.9,7,0,No,Mobile Money,Yes,19/04/2025,2
+9aceaeff-6dc1-44ba-83da-ef40cd188866,Free Trial,2/4/2025,1,59,M,28.3,3,1,Yes,Credit Card,Yes,24/04/2025,2
+e932fa7f-7beb-4f4a-aa8c-a14577a2a1e5,Free Trial,25/08/2023,1,53,M,50.9,6,0,Yes,Credit Card,No,4/5/2025,3
+a7f6f296-533a-4a97-ad96-53fd61c2a521,Standard,6/1/2024,1,44,M,32.7,3,1,Yes,Mobile Money,Yes,4/5/2025,4
+898753e2-b4fd-4747-9c89-e2ab3f909989,Basic,22/10/2023,0,55,M,55.4,3,1,No,Credit Card,Yes,1/5/2025,1
+ca9cc54a-9465-4a74-8c83-699fe0a81d32,Free Trial,18/02/2024,1,24,F,30,4,3,Yes,Mobile Money,Yes,11/4/2025,3
+e9685d7b-de1a-4f19-b851-80584397d10f,Premium,13/11/2024,1,22,M,37.6,1,2,Yes,Credit Card,Yes,22/04/2025,5
+2212e28d-8b37-4512-a3fa-93564bb054dd,Free Trial,14/06/2024,1,60,M,54.2,2,1,Yes,Mobile Money,No,13/04/2025,4
+e0c446f7-0507-4b21-916e-6a16d33e1741,Free Trial,20/06/2023,0,62,F,36.6,4,0,Yes,Credit Card,Yes,7/4/2025,4
+c6aa8d63-49fa-44c8-8320-912b43a2c4f1,Standard,15/04/2025,1,68,F,51.3,5,0,No,Mobile Money,Yes,14/04/2025,2
+2e3fa2ab-7e1e-4083-8588-3195aa526106,Standard,30/03/2024,1,48,F,39,8,0,No,Credit Card,No,24/04/2025,3
+0bf44660-c01a-421c-96f5-05923a04597b,Basic,25/07/2023,0,40,M,69.7,7,0,Yes,PayPal,Yes,15/04/2025,5
+560cccce-a874-4f31-87e9-ca0aed2494c9,Premium,19/03/2025,1,59,Other,63.5,7,0,Yes,PayPal,No,4/5/2025,2
+5142123e-487c-4e2d-884d-913bbeb7f9bd,Standard,24/05/2024,0,27,Other,20.1,2,0,No,Credit Card,Yes,17/04/2025,2
+7329c91e-bca5-4516-8bc0-d565f1f459a3,Free Trial,10/6/2023,0,49,F,47.8,6,1,Yes,PayPal,No,8/4/2025,1
+3bf4767f-9528-45d6-ae2f-4ae2f9cf33ae,Basic,7/7/2023,0,60,Other,27.8,8,1,No,Credit Card,Yes,7/4/2025,4
+2bbdc6a2-7ff2-4408-9e13-e36c5dfd7119,Free Trial,19/10/2024,0,47,F,42.9,6,3,Yes,Credit Card,No,12/4/2025,5
+c9aafda8-d30f-46f3-8e7b-8b93d6ba6a58,Free Trial,12/11/2023,0,56,M,41,4,0,No,PayPal,No,30/04/2025,4
+209b9172-5f12-4886-a151-7263bdc0cd72,Standard,28/09/2023,1,48,Other,24.2,4,4,Yes,Credit Card,No,11/4/2025,3
+4309be57-bb7d-4a8f-ace8-5cefed6d91b1,Basic,12/9/2024,0,35,M,55.9,4,1,No,Mobile Money,Yes,16/04/2025,1
+f1268cd1-f136-4105-b258-5eb2b1f7473c,Premium,17/07/2023,0,53,Other,43,1,1,No,Credit Card,No,25/04/2025,2
+f8ff450d-d32b-4f58-b791-7b33deb02c34,Premium,8/3/2024,1,19,M,35.7,6,1,No,Credit Card,Yes,27/04/2025,1
+6b771f23-9bbe-47c5-8fa0-304291f52ec6,Standard,11/4/2025,0,31,Other,33.4,8,0,Yes,PayPal,No,10/4/2025,2
+dcd80d97-7d0f-4310-9b93-4eef528ef5ac,Standard,16/12/2023,1,30,M,42.1,7,2,No,Mobile Money,No,9/4/2025,1
+e61ff012-c566-42c5-840a-0525b0eb4043,Basic,14/02/2024,1,46,M,46.1,7,0,No,Credit Card,No,29/04/2025,2
+84917dee-8a98-4b4e-9244-80960a9fadbb,Premium,29/08/2023,1,29,Other,38.1,6,0,Yes,Credit Card,Yes,16/04/2025,4
+917a8164-2978-433c-80aa-caab4e40b0c3,Premium,29/04/2025,0,56,M,0,6,3,Yes,Credit Card,Yes,2/5/2025,4
+8e746b2a-9c6e-44ad-b2bd-c16cfddc3ccf,Premium,10/8/2024,0,19,M,40.3,4,2,Yes,Credit Card,No,1/5/2025,4
+23a1b133-d9ec-44bf-8fbe-4c22654cd557,Free Trial,29/03/2024,0,49,M,18.4,3,1,Yes,Credit Card,No,28/04/2025,4
+affa6a76-fdd8-4501-a9c2-79e5bf65122b,Premium,29/10/2023,1,30,Other,36.9,6,2,No,Credit Card,No,25/04/2025,1
+6340974f-f925-46ff-9dbc-24f59b6d41a4,Free Trial,16/05/2023,0,63,Other,18.9,3,0,Yes,Mobile Money,No,3/5/2025,2
+db1e1cfc-2270-40b4-a27d-a0f15e520265,Basic,18/01/2024,0,44,M,18.8,10,0,Yes,Mobile Money,No,9/4/2025,4
+29cde832-ad94-4f99-b952-8420e5aaf0fe,Free Trial,2/6/2024,0,66,M,58.5,5,1,Yes,Credit Card,No,7/4/2025,1
+5f570f0f-f99e-4e9d-8fcc-ff2e94066af6,Basic,10/7/2023,1,58,Other,35.2,6,0,Yes,Credit Card,No,12/4/2025,2
+1c92a5ba-3c7c-4628-8921-268d233c2896,Premium,15/01/2024,1,34,Other,34.1,6,2,Yes,PayPal,No,23/04/2025,1
+518f7809-5761-4679-8bc5-8647af5d3eda,Premium,25/05/2023,0,57,M,47.2,4,3,Yes,Mobile Money,Yes,1/5/2025,4
+66b22e58-7a19-45ee-bf13-1f07657d5d4d,Basic,23/05/2023,0,48,M,34.4,6,1,Yes,Mobile Money,No,20/04/2025,3
+505da583-7b97-40e4-ba12-08fb5c8a2360,Standard,3/6/2023,0,51,M,71.6,5,1,No,Credit Card,Yes,30/04/2025,1
+2445a9e1-4594-4e05-b500-dd3b3dd800de,Basic,3/2/2025,0,41,F,35.9,3,0,No,Mobile Money,No,5/5/2025,4
+c2f90494-38b6-4c85-ba36-85e5dff496ad,Standard,19/11/2024,1,62,Other,45.5,2,1,No,Mobile Money,Yes,14/04/2025,5
+68d76f00-a8bf-4ea3-903a-9e3fa4ca94fb,Free Trial,30/07/2024,1,52,F,54.6,3,2,No,PayPal,Yes,8/4/2025,2
+012802a1-2e68-4614-a3e1-ab580acb572c,Free Trial,6/1/2025,1,65,Other,64,2,1,No,PayPal,No,4/5/2025,4
+39d0cf85-b387-4e1a-a8d8-d4516a545951,Free Trial,2/5/2025,1,23,Other,28.9,8,0,Yes,Mobile Money,Yes,12/4/2025,5
+58309e2e-fe99-4b83-a306-2e71bc317224,Premium,30/08/2024,0,36,Other,33.7,7,2,Yes,Mobile Money,Yes,7/4/2025,1
+15514c59-e0f8-471a-b445-17f4c1cd2235,Free Trial,23/04/2024,0,47,Other,59.1,4,1,Yes,Mobile Money,No,5/5/2025,1
+8a349863-bda3-4b53-afb9-8adb19e019d5,Standard,8/8/2024,0,24,Other,52.2,3,0,Yes,Credit Card,No,20/04/2025,5
+75ee2e19-3f86-413e-ac44-bdc86ec07c0b,Free Trial,7/4/2024,1,27,Other,56.1,3,0,No,PayPal,No,21/04/2025,5
+42b1d909-3abb-4182-87fc-4e0d19cb900b,Basic,2/9/2024,0,58,Other,19.5,6,1,No,Credit Card,Yes,22/04/2025,2
+9a41d600-b905-4909-a098-269e4e68b4ea,Basic,28/06/2024,1,49,F,63.2,5,1,Yes,PayPal,No,9/4/2025,1
+8f0684ba-0b87-4c45-8fda-7b6022b6ccc7,Premium,30/07/2024,1,51,M,28.6,1,2,Yes,PayPal,Yes,12/4/2025,5
+a76570e1-325c-484a-b604-aaad6172a44d,Basic,9/4/2024,0,45,M,42.9,8,0,No,PayPal,No,3/5/2025,3
+11a21174-2403-4711-bb60-222121edf7d1,Standard,26/04/2025,0,32,F,37.8,9,3,No,Mobile Money,No,12/4/2025,3
+af31ea1d-e27c-43d0-ac64-ed9fe7e3a97a,Free Trial,9/10/2023,0,47,F,26.8,4,1,No,PayPal,Yes,7/4/2025,5
+3b9ab8cd-9e10-4da5-b3fe-5ad4b6b03c1a,Premium,12/4/2024,1,54,F,18.8,7,0,Yes,Credit Card,Yes,16/04/2025,2
+e2e46f57-4aeb-40cc-aa15-3aa1ec761a52,Free Trial,25/09/2024,0,46,F,13.8,3,1,Yes,PayPal,Yes,21/04/2025,1
+cc1074b6-87ba-49b5-8e70-2365276ac64d,Free Trial,11/2/2025,1,39,Other,41.8,7,0,No,Credit Card,No,16/04/2025,3
+71172f80-07c0-49c4-9228-2253ccfde985,Standard,5/7/2024,0,21,M,17.1,5,0,No,PayPal,No,27/04/2025,5
+781c64ab-373c-4d5d-b8cb-d61453ea9342,Basic,19/12/2023,1,37,Other,23,6,0,Yes,PayPal,No,23/04/2025,5
+36b5cb14-2eb0-4c52-9592-b85c07238715,Basic,24/09/2023,1,49,M,36.7,8,1,Yes,Mobile Money,Yes,6/4/2025,4
+2b978c3f-5103-4dc7-8000-bea01e029748,Free Trial,9/1/2024,0,53,M,0.4,2,0,Yes,Credit Card,Yes,3/5/2025,5
+4de4ea0b-44ba-4bfc-b72f-d3947aaf2f65,Premium,6/5/2024,1,67,F,51.7,4,0,Yes,PayPal,Yes,5/5/2025,2
+d5dc5de7-7b75-47a7-a391-8a0926d9fe84,Basic,19/10/2023,1,21,Other,3.9,9,0,No,PayPal,Yes,29/04/2025,3
+4a0a4fa3-b490-4b2c-a64b-2bde918605f7,Premium,23/07/2024,0,44,F,38.8,4,1,No,Credit Card,No,17/04/2025,4
+cac31288-3762-40a5-9537-b01811a2075e,Basic,17/02/2024,1,34,Other,40.2,4,1,No,PayPal,Yes,17/04/2025,3
+3b35f52f-74a2-4601-b452-69c5e920dfc8,Premium,28/02/2025,0,29,M,48.1,3,0,Yes,Mobile Money,Yes,10/4/2025,3
+f6f40443-ef0d-4779-b11a-ef3aab1662f7,Standard,30/09/2023,1,39,F,39.4,4,2,Yes,Credit Card,No,13/04/2025,2
+be6ae7db-048a-4f80-b8df-1f006ae0d523,Premium,7/3/2025,0,34,F,70.3,4,2,Yes,Mobile Money,No,19/04/2025,5
+e565f4d8-a92e-4437-a1a5-fa663f9a9add,Standard,1/10/2023,0,27,M,43.2,6,3,No,Credit Card,Yes,7/4/2025,2
+d0faf57a-c167-4190-9510-d1a81a23d2a4,Standard,25/01/2024,1,18,M,55.8,7,1,No,Credit Card,Yes,6/4/2025,5
+b41fc275-96cb-440a-b315-a3b816768f3f,Premium,8/8/2023,1,39,M,29.1,3,0,No,Credit Card,Yes,18/04/2025,4
+5b4b6d6f-5ba7-4503-9ca2-f70aaef14af3,Standard,28/03/2025,1,43,F,41.8,6,0,Yes,PayPal,Yes,9/4/2025,2
+aac57b7f-d1cd-4e68-aeb4-8b98180a9ca6,Free Trial,2/6/2023,1,35,Other,63.2,8,0,Yes,Credit Card,Yes,23/04/2025,2
+3677ee26-79b3-4cf5-b519-7c1835261503,Standard,15/02/2025,1,67,F,36.4,7,2,No,Credit Card,Yes,2/5/2025,1
+80690d69-97ab-48a6-b640-0d3eae325a35,Basic,6/12/2024,0,31,Other,42.9,3,0,Yes,Credit Card,No,6/4/2025,2
+b375d048-7db4-4be4-a230-2e4f55f2104c,Premium,4/7/2023,1,64,F,54.7,4,2,No,Mobile Money,No,8/4/2025,1
+ebf125b3-16d4-48c1-9bd2-6b3a4d8afe79,Free Trial,3/3/2024,0,46,F,28.9,6,3,No,Credit Card,No,28/04/2025,5
+5acb6f67-fd7e-4240-8c2e-8387108cc75b,Premium,17/10/2023,0,29,M,7.6,8,1,No,PayPal,No,16/04/2025,5
+cbbb3c5e-c393-476f-8d5e-2cddfb0ad1d3,Basic,22/01/2024,1,53,Other,43.8,3,1,No,Credit Card,Yes,17/04/2025,5
+e691d4a2-8509-4af0-be71-5ad51a6a9d4e,Basic,24/08/2023,0,52,F,54.8,4,0,Yes,Credit Card,Yes,19/04/2025,1
+c16113c6-d410-465c-a02c-e9fedf013c62,Basic,4/4/2025,0,69,F,19.7,3,0,Yes,Mobile Money,Yes,21/04/2025,5
+23d93d48-aebe-474b-8cd9-30589389bf66,Standard,14/02/2025,0,29,M,50.1,8,1,Yes,PayPal,Yes,2/5/2025,3
+c886bb04-babf-4b81-b557-7e37a7d98863,Standard,20/12/2024,0,24,M,50.2,1,0,Yes,PayPal,No,5/5/2025,2
+a180b021-dd6f-4f81-b205-3ad3106c7609,Premium,2/10/2023,1,46,Other,5.9,3,0,Yes,PayPal,Yes,4/5/2025,1
+aea41360-b8f7-44d6-9089-ff177c33a3fe,Premium,13/06/2024,0,28,F,26,7,3,Yes,Credit Card,Yes,25/04/2025,5
+acd73fa3-8189-42f5-a570-38eb27cdbff3,Free Trial,25/07/2024,1,50,Other,34.1,5,1,No,Credit Card,Yes,28/04/2025,3
+4a9054e4-f51f-49cd-9584-b1a06585ab80,Free Trial,26/12/2024,1,23,F,37.3,9,1,Yes,PayPal,Yes,18/04/2025,2
+920f99de-ce3b-496c-967f-ede69e230725,Premium,8/6/2024,0,64,Other,28.9,5,1,Yes,PayPal,No,2/5/2025,2
+deea52bd-146f-4392-9aea-d8eabb8d5079,Standard,6/1/2024,1,32,M,28,4,1,Yes,Mobile Money,Yes,4/5/2025,5
+06cb526b-2298-4aab-85c1-e9d7bb828e84,Basic,23/12/2023,1,49,F,65.1,5,1,No,PayPal,No,17/04/2025,3
+cd55ca39-6ac8-4982-b350-131d91d6c3be,Premium,3/1/2024,1,68,Other,38.4,7,1,Yes,Credit Card,Yes,2/5/2025,1
+2eac9a04-cac6-4e5b-ac91-df3c10752573,Free Trial,12/8/2024,0,28,M,29.6,3,0,No,Credit Card,Yes,12/4/2025,5
+b6581bc5-1b73-46ad-b05a-deff1cdd4694,Standard,26/04/2024,1,40,M,39.4,6,0,Yes,Credit Card,Yes,26/04/2025,2
+02d994f7-79cc-432b-b9d7-bf35f6e3c5d4,Premium,10/3/2025,1,43,Other,48.1,7,1,Yes,Mobile Money,No,17/04/2025,2
+aa641d77-5182-48f5-92ce-b7de345695f3,Premium,3/2/2025,1,51,F,40.8,4,2,Yes,PayPal,Yes,2/5/2025,2
+52bf3999-c559-4480-b776-8b4916f3c8e4,Standard,29/11/2024,0,63,F,36.9,4,1,No,Credit Card,Yes,14/04/2025,5
+0b428763-c9b9-45cd-9abf-ae2e47917ce0,Premium,10/9/2024,1,51,M,30.2,4,1,No,Mobile Money,Yes,27/04/2025,4
+45558f50-9854-4ba6-9d78-1793a54e81f5,Standard,29/03/2025,0,46,F,30.1,3,2,Yes,Mobile Money,No,7/4/2025,4
+74bca9c5-273a-4535-b3ad-f4132e74a124,Basic,19/03/2024,0,21,F,31,4,0,Yes,Credit Card,No,26/04/2025,4
+5c6cacea-33d4-407c-a3bd-24f0a20e0f8b,Standard,3/10/2024,0,34,F,45.1,2,0,Yes,Mobile Money,Yes,26/04/2025,3
+5a514a49-abda-479a-9c02-61dddb9e87e8,Standard,15/08/2024,0,52,M,25.1,7,1,No,Mobile Money,No,15/04/2025,5
+21bfd484-8e50-4ba8-9cf4-9ae0eebcfc7c,Standard,4/12/2023,0,30,Other,45.9,6,0,No,Credit Card,Yes,9/4/2025,2
+3d1ada66-d44b-42d9-9bfd-35f9c86da856,Premium,5/9/2024,0,58,F,61.2,7,1,Yes,Mobile Money,Yes,18/04/2025,3
+3146ad72-11fe-4875-a38c-2f8bca44dad7,Premium,1/5/2025,1,56,M,44.9,5,3,No,Credit Card,No,3/5/2025,4
+c080cca7-7766-416b-8836-a78b4e100b95,Standard,8/11/2023,0,32,M,34.5,4,0,No,Credit Card,Yes,9/4/2025,1
+b7065df8-abc9-4c03-822e-3c5ec0200369,Premium,18/12/2024,1,46,Other,20.5,5,1,No,Mobile Money,Yes,15/04/2025,3
+aca993e1-ce4e-4f6b-b828-7681c2c0a1e2,Free Trial,18/03/2025,1,46,F,63.7,4,0,No,Credit Card,No,13/04/2025,3
+95fd6cda-ebaf-450e-bf09-986fb33c1413,Free Trial,18/01/2025,0,28,F,22.4,7,0,Yes,Credit Card,No,9/4/2025,5
+df3ee1d7-3e12-44f0-aa46-0c35d9b7042c,Premium,20/05/2023,1,69,Other,52.7,5,0,Yes,PayPal,No,12/4/2025,3
+c9a9e354-fb2c-4c14-ac93-86dff6b3a0a0,Premium,1/7/2024,1,49,Other,49.6,6,0,No,Credit Card,No,15/04/2025,5
+69e96ae4-5978-40fc-93b4-19d52053f900,Standard,24/03/2025,1,19,M,36.4,5,1,No,PayPal,Yes,3/5/2025,1
+abbeb4ae-7bdc-4a3f-a9f0-be4525c22c1e,Basic,27/10/2024,1,64,M,36.1,2,0,No,PayPal,Yes,2/5/2025,2
+8547eff6-60dd-48bc-b88c-06edd0096471,Premium,18/02/2025,0,31,Other,12.5,4,2,Yes,PayPal,Yes,12/4/2025,2
+d1c24ae5-a52f-4305-aefd-362016b125d5,Free Trial,27/11/2024,1,37,F,45,4,0,Yes,PayPal,Yes,27/04/2025,4
+32397192-66be-43da-a5ec-9de6a6d38710,Standard,4/6/2023,0,39,M,49.3,6,3,No,Mobile Money,Yes,24/04/2025,4
+b06b63cc-9d29-4627-9e7f-fa3133f51671,Premium,9/7/2023,1,28,M,23.7,11,0,No,Mobile Money,Yes,13/04/2025,1
+1b422bf6-6973-4d15-83eb-3926a99a1e84,Free Trial,10/11/2024,1,44,F,37.7,6,1,No,Credit Card,Yes,1/5/2025,2
+8cd55b09-302c-4694-a3f3-ef30d37ee706,Free Trial,19/06/2023,0,20,M,40.6,8,3,No,Credit Card,Yes,7/4/2025,4
+667196ae-817c-44ed-8cba-24b960b290a3,Basic,11/3/2025,1,34,F,48.8,5,0,Yes,Credit Card,No,25/04/2025,3
+ab7b83e4-7cd6-45cf-9024-5f62f650721f,Standard,20/08/2023,1,61,F,40.1,3,2,Yes,Mobile Money,Yes,8/4/2025,5
+762ba1d0-c724-4b22-bd48-db5249281761,Standard,25/05/2024,1,45,F,15.6,5,0,Yes,PayPal,Yes,9/4/2025,4
+2db8501d-a64d-480f-b9d7-63378933a9e4,Basic,28/09/2023,0,46,Other,32.1,1,0,Yes,Mobile Money,Yes,1/5/2025,1
+3ab18212-28e6-4043-a358-a3e4fdd1530a,Basic,2/3/2025,1,38,Other,43.4,8,1,Yes,Mobile Money,Yes,20/04/2025,2
+7b4690e2-43f7-419f-880f-adcea0e40795,Standard,21/01/2024,0,64,Other,52.6,6,2,Yes,Credit Card,Yes,1/5/2025,1
+ae7cadcb-dc1c-4059-bfb5-3e1298160f3c,Standard,29/11/2023,1,33,F,30.7,4,2,No,Credit Card,No,21/04/2025,5
+7d95335c-7ee9-4183-a7a1-77e189c7f73a,Premium,1/12/2024,0,54,F,72.8,7,1,No,Credit Card,No,17/04/2025,5
+4e2739c2-cd6a-4937-a68c-4ac45a804a4f,Premium,10/7/2024,0,37,Other,11.6,1,1,Yes,PayPal,No,21/04/2025,1
+74c90c19-6791-4fc8-ad19-55b5a09385b2,Basic,18/05/2024,1,23,M,31.5,7,1,Yes,PayPal,Yes,20/04/2025,4
+9141597a-73e2-4154-9cd2-57d809992b40,Premium,12/8/2024,1,36,F,38.8,3,0,Yes,Mobile Money,Yes,12/4/2025,4
+0237e782-0be7-41d4-adfb-a7de87a4760e,Free Trial,24/09/2023,0,22,M,37,9,1,No,PayPal,Yes,8/4/2025,2
+483105d1-2ee8-42b6-a58b-c79f420fc6c2,Premium,22/04/2025,0,20,M,21.5,4,2,No,Credit Card,Yes,28/04/2025,2
+c838a10b-1897-41f7-8b7b-b4a0d6eee525,Premium,21/04/2025,1,18,F,46.7,2,1,No,PayPal,No,13/04/2025,3
+94c43b76-58b1-4af3-8839-de7e38df4c2d,Free Trial,19/09/2024,0,55,F,45.6,4,0,No,PayPal,No,23/04/2025,3
+c2b96cb3-6bab-45b2-beac-8cb833fc77df,Basic,27/05/2024,1,32,M,40.7,6,2,Yes,PayPal,Yes,15/04/2025,2
+e63c604f-e37e-442b-b53f-da90dff072a4,Free Trial,10/2/2024,1,51,M,45,2,1,No,PayPal,Yes,2/5/2025,3
+daf5b29f-bc05-46aa-9ba7-60eb6ecd4032,Premium,29/08/2024,1,52,Other,33.6,1,1,Yes,Credit Card,No,30/04/2025,1
+521887cb-baf2-4dd4-8d2d-fd17c5719f5e,Basic,9/12/2023,1,66,Other,15.7,7,2,No,Credit Card,No,27/04/2025,4
+4b8bf0db-25d1-4253-aa6b-1474cc0f8f30,Premium,4/9/2023,0,42,F,29.3,7,2,No,Mobile Money,No,3/5/2025,3
+16ff4920-5a35-4c2c-8663-2defcc0da651,Free Trial,12/11/2023,1,41,Other,42.4,6,1,No,Mobile Money,No,13/04/2025,3
+1c00e57a-f95d-4045-86f3-0563fe894566,Free Trial,2/8/2024,0,29,Other,42.4,8,0,No,Mobile Money,No,6/4/2025,1
+29ca28c3-5784-4099-8dfc-d8db236749e1,Premium,24/07/2023,1,35,Other,40.6,7,1,Yes,PayPal,No,20/04/2025,5
+a3d83e14-b550-4efb-8c0f-fde6da97a5d2,Standard,25/10/2024,0,32,Other,48.2,5,2,Yes,PayPal,No,24/04/2025,2
+58582658-c402-4a33-8569-1d467548f96a,Standard,16/09/2023,1,61,M,31.3,6,2,Yes,Credit Card,Yes,21/04/2025,1
+d6bef3b5-8ac1-4535-aacb-120e5bdb0b24,Free Trial,21/11/2023,0,33,F,40.4,6,1,Yes,Mobile Money,Yes,21/04/2025,5
+2d5ee53d-5631-449f-975e-ef9e0770bb1d,Free Trial,25/06/2024,0,44,Other,48.6,7,1,Yes,Credit Card,No,2/5/2025,1
+360880fb-21eb-4a61-85b6-c4c982ebf2a4,Standard,29/11/2023,1,25,M,38.7,6,1,Yes,Mobile Money,Yes,17/04/2025,4
+dde6c197-f854-481d-a05d-9a49de7c340c,Standard,23/01/2024,1,63,M,21.4,3,1,Yes,Mobile Money,No,14/04/2025,1
+150e9a63-c536-4cbd-a503-cac3c1f0a97c,Premium,17/09/2024,1,42,M,25.6,3,0,No,Mobile Money,Yes,16/04/2025,1
+883861ee-8893-4785-b94e-611c7cea4a72,Premium,25/10/2023,1,34,Other,52.5,1,1,Yes,PayPal,No,4/5/2025,4
+e38f424f-7ea3-42f6-a3bf-e8b4cc9c4766,Standard,4/11/2024,0,46,Other,60.9,5,1,No,Mobile Money,Yes,7/4/2025,2
+cd17252b-b715-48f5-b26c-a8c6a18e4100,Premium,23/11/2023,1,25,F,57.6,3,1,Yes,Mobile Money,No,17/04/2025,5
+47141bee-12ae-4946-999c-f3109d0aacf6,Premium,16/08/2024,0,32,Other,43.5,9,0,No,PayPal,Yes,27/04/2025,3
+9a66f816-e17b-4f48-980d-9fab34249dc1,Basic,9/2/2024,0,44,Other,22,8,1,Yes,Mobile Money,Yes,3/5/2025,2
+ba6d2969-98f6-44cd-8bad-56570d2eeb50,Premium,22/10/2024,1,63,M,39.9,4,2,No,PayPal,No,29/04/2025,1
+c7aca832-07ec-4877-9b63-f0a739c9637e,Free Trial,10/7/2024,0,67,F,63.4,2,0,Yes,PayPal,No,3/5/2025,3
+def44e85-de72-4b8e-a72a-4bafe2d3c6ff,Premium,13/02/2025,0,69,Other,49.3,3,3,Yes,Credit Card,No,23/04/2025,4
+db2b6e39-1fdc-4b92-b34e-0889e342b7d3,Premium,2/7/2024,0,24,Other,36.9,2,1,Yes,PayPal,Yes,5/5/2025,2
+1d85006b-f0a2-4276-ab5b-6ccc0a614e41,Standard,4/6/2024,0,20,M,49.4,4,2,Yes,PayPal,Yes,25/04/2025,5
+b907cb4a-f77b-4413-b84d-1c03fa49745d,Free Trial,26/12/2024,1,46,M,21,4,1,No,PayPal,Yes,18/04/2025,2
+71840b86-23f0-444c-8b02-c9d33ee800cf,Premium,18/02/2025,1,61,Other,29.6,5,1,Yes,Mobile Money,Yes,10/4/2025,2
+2676b6b3-b5c0-4c6f-a2e5-9fdfdae1119c,Premium,4/6/2024,1,41,F,23.7,8,1,Yes,Credit Card,No,17/04/2025,3
+5d7072b1-6bb3-4e6a-a626-1c07836a2fd8,Basic,6/11/2023,1,20,F,47,6,2,No,Mobile Money,No,4/5/2025,4
+335cd0b9-3059-4e99-b847-c35f100f6d00,Premium,30/01/2025,0,37,M,50.7,3,0,Yes,PayPal,Yes,20/04/2025,4
+387fecd2-7415-4e1e-8f13-8bfa7c23a1a5,Premium,23/05/2023,0,63,M,37.7,5,1,No,PayPal,No,28/04/2025,2
+b04ebb5c-9c5e-4bf6-84c1-a8fa3ef9488e,Basic,13/03/2025,1,32,Other,26.9,6,1,No,Credit Card,No,9/4/2025,4
+fc59391f-07a8-4c58-8084-d32c35e5c0f2,Standard,2/6/2023,1,42,M,39.7,3,1,Yes,Credit Card,No,7/4/2025,3
+fc035a14-84e1-4b6b-8534-9d49554bb898,Premium,17/09/2024,1,47,Other,32.7,8,0,Yes,PayPal,No,3/5/2025,3
+a8338d56-2cca-4377-ae7b-2ef7011528c6,Basic,17/04/2024,0,31,F,28.1,8,0,No,PayPal,Yes,13/04/2025,5
+5a897111-86ee-4dbd-9c3d-4e4ad2d3115a,Free Trial,12/12/2024,1,24,F,45.1,5,1,Yes,Mobile Money,No,1/5/2025,4
+9c56e864-936a-479b-ba59-78c27ae95ac5,Standard,17/12/2023,1,34,Other,28.6,4,2,No,PayPal,No,1/5/2025,5
+a84cc3d8-9835-4766-8747-e106806c4159,Free Trial,28/10/2023,1,61,M,16.5,2,1,Yes,Mobile Money,No,6/4/2025,1
+a6b5e08f-1b37-4172-bfbb-e544e28e77fd,Free Trial,1/8/2024,0,37,F,19.8,6,1,Yes,Credit Card,Yes,4/5/2025,3
+78a25530-896c-4405-aa0f-c3e96177d04e,Basic,9/4/2024,0,53,M,16,5,1,No,Mobile Money,No,22/04/2025,2
+91cca5d1-d1b7-4e2d-9b9a-741c39fd389e,Premium,25/10/2024,0,26,F,43.7,6,1,Yes,PayPal,Yes,3/5/2025,3
+8cb50f6a-c7ca-4eaf-8a17-e502e2e2c77b,Basic,20/10/2024,0,55,Other,42.3,7,1,Yes,Mobile Money,Yes,15/04/2025,1
+3f2378ff-a30c-4b12-afb8-353429c27875,Basic,6/9/2023,0,65,Other,41.5,3,1,Yes,Mobile Money,No,21/04/2025,2
+4bc60773-e96f-4422-86fb-8825acf2d3b4,Basic,11/3/2025,0,39,Other,48.8,9,2,No,Credit Card,No,6/4/2025,4
+5255f6f1-68b3-4f73-b69a-3ca098ea0761,Basic,14/11/2023,0,19,F,57.9,2,2,Yes,Mobile Money,Yes,6/4/2025,4
+b04dc9f0-b911-442e-b606-4d54ae62e871,Standard,10/4/2024,0,41,M,31.1,0,1,No,PayPal,Yes,5/5/2025,3
+cdddd8d5-27f7-4a3c-83f9-6a916b6705f7,Premium,18/09/2024,1,25,M,46.1,6,1,Yes,Mobile Money,Yes,12/4/2025,2
+3c727910-1e08-4ca1-bba6-4562ff0c2ccb,Free Trial,7/12/2023,1,28,M,16.3,4,1,No,Mobile Money,Yes,16/04/2025,2
+1bb09460-c77b-4349-9432-f69c6dfedc1a,Free Trial,21/11/2024,0,30,F,60.7,6,0,Yes,Mobile Money,No,28/04/2025,5
+cbd44b73-f1b7-4eb1-9f8f-352e99fa33b4,Premium,4/12/2024,0,34,F,21.3,4,1,Yes,PayPal,Yes,11/4/2025,1
+f849fe58-c7e1-40e7-a4b4-4f71f1d4e75b,Free Trial,25/07/2024,1,25,F,29.3,5,0,No,Mobile Money,No,19/04/2025,4
+390c4067-6784-4151-845b-33616c8216bb,Premium,17/01/2024,0,38,F,31,2,5,Yes,PayPal,No,15/04/2025,3
+04f761ea-8e48-43dc-9405-c8cf4e29c089,Free Trial,17/08/2024,0,35,F,17.1,5,1,No,Mobile Money,Yes,20/04/2025,2
+e9f42243-2262-4f53-8afb-9421b73838ad,Basic,17/05/2024,0,47,M,40.5,4,0,Yes,Credit Card,No,21/04/2025,4
+e9f46912-dfde-4225-981d-ded007b65714,Free Trial,7/10/2023,1,35,F,43.2,3,1,No,Credit Card,Yes,13/04/2025,3
+2b8d4933-ea69-4042-85b5-f2ab4b267900,Premium,27/08/2024,1,63,F,37.2,5,0,Yes,Credit Card,Yes,9/4/2025,4
+2f97dfb7-830a-4fe5-acd9-adde85379507,Premium,17/08/2023,1,64,M,16.9,3,2,No,PayPal,Yes,30/04/2025,3
+f0e58844-1a73-4725-a13f-16a30855c228,Premium,20/11/2024,1,48,F,69.8,3,2,Yes,PayPal,No,10/4/2025,4
+cd7a8319-4d3f-4b09-adb8-bb88e1865c9c,Premium,29/07/2023,1,55,M,48.2,4,2,No,PayPal,No,8/4/2025,5
+8c04fec3-197f-4981-9b1a-93b4f118ad9f,Premium,10/2/2024,0,49,M,79.5,8,2,No,Mobile Money,Yes,30/04/2025,1
+a2829e32-ad63-4ba6-875b-1243004c66ee,Standard,27/03/2024,1,28,Other,27.9,5,2,Yes,PayPal,No,20/04/2025,4
+88440dde-88b8-4ddd-94a8-d94d2620d4d0,Standard,30/10/2024,0,62,Other,54.4,4,0,No,PayPal,No,13/04/2025,1
+d8c09d15-45c9-4195-a242-90c857188005,Free Trial,1/4/2025,0,42,Other,51.7,4,4,No,PayPal,No,24/04/2025,4
+11884bfe-9ca3-428e-9d11-c54b4addfe95,Premium,27/06/2023,1,50,Other,35.6,4,1,Yes,PayPal,No,22/04/2025,2
+ec17673d-f624-48e2-affd-c88822579a69,Free Trial,5/5/2025,1,55,F,61.2,4,0,Yes,Credit Card,No,27/04/2025,5
+7943aa8a-fa24-41de-b080-1581bfe778cc,Premium,3/6/2024,0,58,Other,33.9,7,2,Yes,Mobile Money,Yes,25/04/2025,5
+0b4e2cdc-c633-4833-971d-eb49e0f1a79a,Premium,25/10/2023,0,25,M,34.6,8,1,Yes,Credit Card,No,17/04/2025,1
+0448f639-475b-4e14-812b-c1d4326bf637,Standard,5/12/2024,0,28,F,0,7,0,Yes,Mobile Money,No,26/04/2025,2
+ea38ae06-7962-40bd-8d7e-64de6f5f4dac,Standard,16/06/2024,1,39,Other,46.1,3,0,Yes,Mobile Money,Yes,30/04/2025,3
+6af7b37a-2241-411e-8c51-aa9b46c89c85,Basic,14/04/2024,1,68,M,20.1,6,0,No,Credit Card,No,16/04/2025,5
+d4a95b56-aa46-4807-9aff-2751c4e41902,Standard,15/06/2024,1,41,F,31.7,6,0,No,PayPal,No,1/5/2025,2
+976daa62-add2-4c8f-9a47-30bea60c7430,Basic,13/05/2024,1,58,F,24.6,4,1,No,Credit Card,No,12/4/2025,2
+473f1f3b-5d14-48ed-b639-338b193c7a5c,Basic,24/11/2024,1,34,Other,34.5,6,0,Yes,Mobile Money,Yes,12/4/2025,1
+761edbe5-fa6f-4e03-b1c3-ef7cef2a3f13,Basic,16/08/2024,0,29,F,46.7,9,1,Yes,Mobile Money,No,9/4/2025,2
+cc21faa0-79b3-489e-86b9-2ef9c7479f1a,Basic,25/03/2024,1,63,M,40.2,6,0,No,PayPal,No,28/04/2025,2
+010d784a-ae40-4e35-8119-16e38002ef4b,Basic,19/05/2024,0,49,F,50.6,4,2,No,Credit Card,Yes,18/04/2025,3
+9a9c7eae-27ea-43dd-9da9-c1529b76ddb6,Free Trial,20/02/2024,0,32,M,59,6,0,Yes,Mobile Money,Yes,4/5/2025,1
+7f2b13a1-d2c7-45df-90cc-5b93be9a60cf,Standard,7/2/2024,0,33,F,34.5,7,3,No,Credit Card,No,9/4/2025,1
+84b9fd6e-4eb7-4803-82cb-f0ccc76866b7,Basic,24/11/2024,1,39,Other,32.8,4,1,Yes,PayPal,Yes,17/04/2025,2
+6ae5812e-e607-4aa9-9959-baa91ba98dfa,Premium,20/09/2024,1,45,M,54.4,3,0,Yes,PayPal,Yes,18/04/2025,3
+c4005205-9401-4551-8f33-5eb34976192b,Standard,18/07/2024,1,37,F,55.6,4,1,No,Mobile Money,Yes,19/04/2025,4
+a655b574-eaa8-49f6-92c7-b36fdecd9c3a,Standard,19/02/2025,0,50,F,51.1,5,0,Yes,PayPal,No,6/4/2025,5
+d0e69661-e649-4385-bfd1-2d0f2ab5ef68,Basic,22/04/2024,0,27,F,25.7,3,2,Yes,Mobile Money,No,16/04/2025,1
+edd0207e-400c-4540-9615-517f78189a45,Free Trial,11/10/2024,0,57,M,46.3,5,1,Yes,Mobile Money,Yes,20/04/2025,3
+46e57ceb-22f2-47ab-8643-0166cc9556ac,Basic,18/03/2025,0,49,M,41.6,3,1,Yes,PayPal,Yes,1/5/2025,3
+dda6fe68-9127-44a5-bd77-8be664efc483,Free Trial,6/2/2025,0,67,M,55.8,5,0,No,PayPal,Yes,28/04/2025,2
+143ff7b9-a5d3-43ca-a511-70cf287c8a3e,Premium,17/07/2024,0,50,Other,31.4,5,1,Yes,Credit Card,Yes,5/5/2025,5
+18fe8686-fe05-4419-b1b4-51c1f8a2f4b5,Standard,17/09/2024,1,19,Other,15,5,1,Yes,Credit Card,No,24/04/2025,1
+8a2f12d0-4d96-415b-8e9d-7a9254cb6799,Premium,5/11/2023,1,50,M,50.4,6,0,No,Mobile Money,Yes,14/04/2025,4
+56659b5e-5ac3-448f-ad50-b43b05bcf6dc,Free Trial,10/1/2025,1,50,F,1.6,6,1,Yes,Credit Card,No,3/5/2025,2
+45bbcaf9-1603-41bd-995e-5bd5028e61fc,Free Trial,1/10/2024,1,58,Other,29,6,0,Yes,Mobile Money,Yes,19/04/2025,1
+ca73f464-2a93-4b7e-896d-b569b4573df2,Premium,3/12/2024,0,30,M,24.7,5,4,No,PayPal,No,23/04/2025,1
+cd9fcf80-a2da-4bee-ae5a-2a7d4f2bf4b0,Free Trial,26/09/2024,0,47,F,24.6,7,1,No,PayPal,No,22/04/2025,3
+f2559cb0-4a38-438f-afab-347728ecfe91,Premium,3/7/2023,1,50,Other,28.8,3,1,Yes,Credit Card,Yes,18/04/2025,5
+b918054a-7d5e-4602-a9b1-f73bd5eea53d,Standard,21/08/2024,0,30,F,58.3,5,6,Yes,Mobile Money,No,6/4/2025,4
+4ab91351-cdbe-432a-9438-36353d4365e9,Premium,8/12/2023,1,69,F,52.3,7,0,No,Mobile Money,No,9/4/2025,5
+45505329-e5da-4a3a-a431-525e4bd606b0,Standard,21/03/2024,1,43,F,36.2,2,1,Yes,Credit Card,No,6/4/2025,3
+02086490-dc39-499c-946e-c5b443c35bdd,Premium,2/8/2023,1,39,F,57,8,1,Yes,Mobile Money,Yes,5/5/2025,4
+37e96db2-0918-450b-b700-0899436ff4fd,Free Trial,8/7/2024,0,56,Other,24.1,4,3,Yes,Mobile Money,No,30/04/2025,4
+da80f394-4e1f-4f9e-9e69-97f10a25967d,Premium,10/1/2025,1,19,Other,22,2,1,No,PayPal,No,27/04/2025,2
+58c924a1-9114-486d-94b0-7d5306e2042c,Free Trial,10/11/2024,1,55,Other,53,5,0,Yes,Mobile Money,Yes,3/5/2025,4
+b65703df-e03e-4133-b69a-e3fccf50b8de,Premium,10/11/2024,1,56,M,48.7,5,2,No,Mobile Money,Yes,17/04/2025,1
+f79dcf98-80e1-4791-8ee3-788bac3e893e,Premium,13/07/2023,0,43,Other,33.1,4,2,No,Mobile Money,No,5/5/2025,5
+c7db8e3c-0218-4f6b-a4fb-2753fcfa78eb,Basic,1/7/2024,0,63,F,23,6,1,No,Credit Card,No,17/04/2025,5
+ac80ac86-80e3-416b-85f4-952c741443f0,Free Trial,24/10/2023,1,67,Other,61.9,8,0,No,Credit Card,Yes,1/5/2025,2
+2407f40b-1d48-480c-b2c5-5531bbd6d11d,Basic,31/05/2024,0,32,F,14.2,4,0,Yes,Credit Card,Yes,5/5/2025,4
+98131fd3-d026-41ef-b079-db6683c9bd96,Free Trial,9/11/2024,0,51,M,31,3,1,No,Mobile Money,No,26/04/2025,3
+98db25e4-86ae-488c-9270-603655d7e3f3,Basic,13/03/2024,0,59,F,43.4,6,0,Yes,Mobile Money,No,30/04/2025,1
+2deb1949-aa9a-4b49-a11d-fc7c6011b221,Standard,6/8/2024,0,61,F,67,4,2,No,Credit Card,Yes,27/04/2025,2
+23888497-3da7-4c9e-9c88-00e02fcfb41d,Premium,4/4/2024,0,66,F,45.7,2,0,No,Credit Card,Yes,24/04/2025,4
+511ed973-834c-4303-92a5-56939afda515,Free Trial,15/07/2023,0,57,M,47.2,3,1,Yes,Mobile Money,No,25/04/2025,3
+944607ea-ac48-4b3e-bfe6-34663cde84c8,Free Trial,14/08/2024,0,28,Other,31.5,1,2,No,Mobile Money,No,16/04/2025,4
+079b43c0-a9c3-4145-90bb-63f97e0639d4,Premium,28/05/2024,0,20,Other,48.5,9,0,No,PayPal,Yes,18/04/2025,2
+08b1de6f-a80e-4be7-bad5-3943fd53fe18,Free Trial,23/02/2024,0,23,M,41.6,5,0,Yes,Credit Card,No,23/04/2025,3
+240f50a6-d5fa-4014-887d-d01ae24bc872,Free Trial,13/04/2024,0,26,F,16.2,3,0,No,Mobile Money,No,2/5/2025,3
+0ed2775b-8002-4fae-9e12-5bbadc9a03bd,Basic,24/09/2024,1,23,Other,51.9,4,0,No,Credit Card,No,27/04/2025,3
+ac2bed4d-9558-42f4-9a97-83d7a0c6d8aa,Free Trial,17/03/2025,1,26,M,54.6,3,1,No,Credit Card,No,3/5/2025,3
+83e74f0d-53c9-4017-acba-8d93128d0fc0,Standard,9/8/2023,0,56,Other,52.1,4,1,Yes,Credit Card,Yes,20/04/2025,4
+335cbbdf-354b-4ccf-9479-a5868086aa0c,Standard,15/12/2023,1,48,M,40.5,6,0,No,PayPal,Yes,8/4/2025,3
+aa366e35-8732-41b9-8965-69afe108b953,Premium,25/01/2024,1,49,F,25.7,4,0,Yes,Mobile Money,No,29/04/2025,4
+bc6be4fa-db8e-4274-b2c7-ab0ec61b17e6,Free Trial,9/11/2024,0,58,Other,5.4,2,0,Yes,Mobile Money,No,7/4/2025,3
+006004a9-be86-4425-81c0-0aeffb2d3dc0,Premium,25/03/2025,0,67,M,42.4,6,0,Yes,Credit Card,No,1/5/2025,3
+df58447e-337b-49bc-a6c4-70e2460193ee,Standard,22/02/2025,0,29,Other,56.2,3,1,No,Mobile Money,No,19/04/2025,2
+2c61c69c-fe51-4ab5-bd4d-915a12a9fc0a,Free Trial,19/02/2024,1,25,Other,54.9,6,1,No,PayPal,Yes,21/04/2025,4
+28c57565-a1da-4ca1-9a74-4841805ed227,Free Trial,23/03/2024,1,25,Other,52.2,2,1,No,Credit Card,No,16/04/2025,4
+6391f070-c205-4699-8630-c905e55e4b9c,Premium,19/04/2024,0,67,Other,38.9,8,1,No,PayPal,No,4/5/2025,5
+62fa18cd-cdac-42fd-b354-bbde9b9fecdc,Standard,14/11/2023,0,45,M,56.3,3,0,Yes,PayPal,Yes,3/5/2025,2
+5c93fe2e-0125-44ff-b3ac-d1ed59aad18e,Free Trial,28/07/2024,0,37,F,53.9,6,1,Yes,Mobile Money,Yes,23/04/2025,4
+3eafbad8-68fd-4493-8ead-f6219968c616,Premium,18/01/2024,1,64,M,33.7,4,1,No,Mobile Money,No,15/04/2025,2
+e18315d7-ffb6-48f5-831a-605bfac8f17b,Standard,18/12/2023,1,24,M,50.1,5,1,No,PayPal,Yes,19/04/2025,2
+d29be644-88d3-49c4-939c-b784b34e5549,Premium,3/8/2024,1,28,M,32,6,2,Yes,Mobile Money,Yes,9/4/2025,2
+276f9c5f-3502-4be4-b78a-2ee3942b100f,Basic,20/08/2024,1,37,F,48.1,1,1,No,PayPal,No,2/5/2025,1
+197d95f7-d0ac-493d-8f9b-22ecbb016f11,Free Trial,9/9/2023,0,33,Other,20.5,5,2,No,PayPal,No,19/04/2025,4
+a525f85e-710d-4985-850e-38b5e3e26115,Basic,29/05/2024,0,21,Other,21.7,7,2,No,Credit Card,Yes,23/04/2025,2
+4dbf05b2-a64e-4a98-ab19-b1ccf5080cbe,Standard,29/10/2024,0,23,Other,55.9,6,1,No,PayPal,No,20/04/2025,1
+2f72f9f9-14c1-47e3-800e-f66181f6e5e4,Basic,25/09/2023,0,39,F,54.1,6,3,No,PayPal,Yes,19/04/2025,1
+ab130aa9-dfb3-4671-91f4-d6bb61404fa0,Basic,18/11/2023,1,43,Other,49.5,7,1,No,Mobile Money,Yes,6/4/2025,3
+7a93cc22-9d9c-4aa5-b1d1-845fcb5ffdef,Standard,21/12/2024,1,20,F,41.3,4,0,Yes,Credit Card,Yes,21/04/2025,3
+961737f8-bd18-4485-bdb2-188f14acc0eb,Premium,25/10/2023,0,58,Other,4.1,3,0,Yes,Mobile Money,No,27/04/2025,4
+d1ac58cd-e684-44ea-a148-89a1a60407dd,Basic,13/02/2025,0,59,Other,38.9,8,1,Yes,Credit Card,No,30/04/2025,3
+5690e0e3-20ad-423f-b5ea-e5ffdc6dd907,Premium,31/01/2025,1,31,M,46.8,4,0,Yes,Mobile Money,Yes,9/4/2025,4
+6fb5a150-00bb-4665-a918-db889efb7943,Basic,10/9/2023,0,28,F,32,5,2,No,PayPal,Yes,8/4/2025,1
+53272bf4-b6f5-4ca1-801d-1c5fee2fd245,Premium,7/9/2023,1,35,M,29.3,5,2,No,Credit Card,No,22/04/2025,1
+0ea164e1-575b-4884-b784-1fa3c512c786,Standard,24/03/2024,0,29,M,61.7,3,1,Yes,Credit Card,Yes,18/04/2025,4
+2e7cd28b-776c-4c1b-9f26-119faf85b86c,Basic,2/2/2025,0,40,M,39.1,9,0,Yes,Credit Card,Yes,26/04/2025,3
+c06a6c36-4320-4b4c-8e2b-2009e05f483b,Standard,7/1/2025,0,29,F,46.8,8,1,Yes,Credit Card,No,29/04/2025,3
+e7132047-41a7-403e-a257-e7d26c43e790,Basic,5/7/2023,0,30,F,51.6,6,1,Yes,Mobile Money,No,24/04/2025,4
+9e5cad15-7537-45b9-8870-d00ed6e18505,Standard,23/04/2025,0,42,Other,25,3,2,Yes,Mobile Money,No,4/5/2025,5
+148700a5-39a7-42cd-ab7e-6d1044bf3959,Standard,28/05/2023,0,62,M,42.9,5,1,No,Credit Card,No,20/04/2025,3
+8772663d-eb56-43d7-bc73-5d7b54c291e1,Basic,20/02/2024,0,68,Other,59.8,5,1,No,Credit Card,Yes,5/5/2025,2
+82feb8a3-bb69-4eaa-ace1-382f82ce49de,Basic,7/10/2024,1,36,M,67.3,5,1,Yes,Credit Card,No,26/04/2025,3
+d7e82d70-1de2-4a61-9cab-d4e03271e0bd,Basic,22/06/2023,1,63,F,40.6,3,0,Yes,Mobile Money,No,8/4/2025,5
+49ee0817-89d4-4484-bedc-e72435c03552,Free Trial,26/10/2023,1,53,F,36.4,7,0,No,Credit Card,Yes,26/04/2025,1
+ba71287e-586d-4ac8-9cbd-61e50af47698,Premium,25/09/2024,1,62,F,44,3,2,No,Credit Card,Yes,25/04/2025,1
+21439cb2-38b2-47b5-8d29-eff8d8a9ed73,Free Trial,4/1/2024,1,25,M,43.7,0,2,No,Credit Card,Yes,26/04/2025,1
+f9c9df16-dd47-4cb3-9ba8-8f411cbd2507,Free Trial,11/2/2025,0,46,F,60.8,6,1,Yes,Mobile Money,No,6/4/2025,3
+b8918855-2dd3-450e-affb-090216d465de,Standard,29/09/2023,0,49,M,25.1,6,0,No,PayPal,Yes,8/4/2025,1
+4c0c7589-c7fd-4f8c-809b-223d0ef2edec,Basic,26/07/2024,1,68,Other,35.8,4,4,Yes,PayPal,No,13/04/2025,5
+57ec604b-32da-4d24-b7e9-0d9a6291657f,Premium,28/08/2024,0,61,M,23.2,5,1,Yes,Mobile Money,Yes,5/5/2025,5
+920b918e-4d3f-4c9f-8a97-31f147dd6da3,Standard,24/08/2024,1,35,Other,24.8,9,2,No,PayPal,No,19/04/2025,3
+b976ee81-4325-4716-9d3c-31b8c9a26fbb,Free Trial,29/12/2024,1,23,M,45.6,5,1,No,Credit Card,Yes,22/04/2025,2
+81b153e6-f200-48a9-955c-dc5de585d382,Basic,2/4/2024,0,35,Other,52.1,4,0,No,Credit Card,No,14/04/2025,3
+4879b6af-3b73-4e6b-abb8-3e394cc62857,Standard,26/02/2025,0,36,F,30.3,3,2,Yes,Mobile Money,No,15/04/2025,1
+29fe9dcb-bccd-4eb5-9bc0-3daaf2131a67,Basic,18/05/2023,0,39,Other,51.6,6,2,No,Mobile Money,Yes,6/4/2025,3
+6b1e1bb7-834f-40f0-85d0-f50d28734dcd,Standard,14/09/2023,1,54,F,56.7,2,0,No,PayPal,Yes,8/4/2025,5
+5743851e-2e19-455b-a745-8967b1ae735e,Basic,29/01/2024,0,49,F,69,6,2,Yes,PayPal,No,9/4/2025,3
+5e47d91b-9c2b-4cf2-b249-38ae11cd6fa6,Free Trial,11/5/2023,1,58,Other,41,6,1,No,Credit Card,Yes,3/5/2025,3
+40c9a20b-024b-4213-a08f-8af38e3fe998,Premium,30/06/2024,1,20,M,30.4,6,1,No,Mobile Money,No,24/04/2025,2
+0ecbb5a7-a174-405a-a541-ecb1682bff0e,Free Trial,30/03/2025,1,45,M,25,5,0,Yes,PayPal,No,21/04/2025,5
+aa81e76c-b9a9-4ebb-a94e-ef2b4e6f75aa,Premium,4/4/2025,0,27,M,23.5,3,2,Yes,PayPal,No,18/04/2025,4
+4b394dc3-9a03-481a-a23b-03922a84a456,Basic,3/2/2024,0,68,M,58.7,4,0,Yes,Credit Card,Yes,5/5/2025,4
+9143cfe2-b6ac-48b7-af3b-1434238e51c8,Standard,9/11/2023,1,52,M,17.3,4,3,Yes,Credit Card,No,21/04/2025,5
+00c3bcda-b4b6-4d94-b513-ac8c8fb66677,Free Trial,21/07/2023,0,46,F,58.3,5,2,Yes,Credit Card,No,20/04/2025,4
+2f97285c-0269-446a-a3fe-91c5719cd67b,Premium,15/05/2023,0,32,M,27,4,0,No,Credit Card,No,14/04/2025,1
+7e133884-273f-4bee-879a-17fc41866cee,Free Trial,30/08/2023,0,50,F,29.7,4,1,No,PayPal,No,28/04/2025,4
+7e71ce40-2dbc-42e0-83ac-2234e7650d95,Premium,27/11/2024,1,24,F,37.7,5,2,Yes,Mobile Money,Yes,30/04/2025,1
+f0e4eddf-9874-4ddc-8cf5-4630f2093563,Free Trial,13/03/2024,1,29,F,29.4,5,0,No,Mobile Money,Yes,15/04/2025,5
+f6392429-da2c-408e-8ff4-9fe5169b7ce6,Premium,10/3/2024,0,66,Other,54,5,0,No,Credit Card,No,8/4/2025,4
+7ccd6f55-840c-452e-9a41-9f9d9243db34,Premium,17/01/2025,1,47,Other,67.2,7,0,Yes,Credit Card,Yes,16/04/2025,4
+49a758e5-41ac-4633-8e01-6cd99930acfb,Basic,26/12/2024,0,38,F,30.1,3,3,Yes,PayPal,Yes,17/04/2025,1
+a3016e57-c6eb-4f3b-a648-4b55b5a3f9a5,Premium,21/08/2024,0,48,Other,33.5,2,2,Yes,Credit Card,No,19/04/2025,1
+bbaaf392-f631-45d4-b0e4-4d48a7c12f6d,Basic,19/02/2024,0,41,M,37.6,4,1,No,Mobile Money,Yes,12/4/2025,3
+f279f97e-2632-432b-bc44-6618f85fd7d7,Premium,21/01/2025,0,37,M,48.1,4,1,Yes,Credit Card,Yes,6/4/2025,2
+afd5ab10-0c2a-456e-b809-dadb0bd8ea87,Standard,21/10/2023,1,54,F,37.7,6,1,No,Mobile Money,Yes,2/5/2025,4
+6ba52ee4-bb85-4914-9a9a-949a2cd9583e,Standard,5/1/2025,1,21,M,60.8,3,2,No,Credit Card,Yes,2/5/2025,2
+e6c5f527-ec7a-49da-9f37-34afbf757d70,Standard,13/02/2025,1,45,F,57.2,5,1,No,Credit Card,Yes,4/5/2025,2
+34b14e67-51b2-4cb4-854f-564f10e36073,Premium,30/04/2024,0,61,F,22.2,5,2,No,Mobile Money,Yes,21/04/2025,4
+7f8b8ce2-724d-4416-885e-1fd78739f381,Basic,6/10/2024,0,37,M,47.8,5,1,Yes,PayPal,No,23/04/2025,1
+4de92187-8a53-4454-85a8-cd97197ee0d1,Basic,6/5/2024,0,41,Other,62.8,5,0,No,PayPal,Yes,18/04/2025,3
+45950940-99e9-4258-a305-817775bd962e,Premium,19/11/2023,1,67,M,32.6,3,6,Yes,Credit Card,No,22/04/2025,5
+bb98f46d-d2d0-428e-8c6c-0ef66babf9e8,Standard,20/05/2023,0,66,M,35.6,10,1,No,Credit Card,No,9/4/2025,4
+73c74697-4a8f-4b67-afe2-7f7031044aa9,Standard,10/7/2023,1,68,F,32.1,5,2,Yes,Mobile Money,No,19/04/2025,4
+fcb9ddb6-f760-414c-b5d4-26468ba097e9,Basic,14/12/2023,1,49,F,32.4,4,1,Yes,Mobile Money,Yes,3/5/2025,5
+7950760a-8867-4651-8946-c6f03b15fce1,Standard,30/11/2023,1,58,F,15,4,1,Yes,Credit Card,Yes,25/04/2025,2
+1c6ed75b-2524-4297-aeea-b0672ec65e4f,Free Trial,14/04/2024,1,53,F,20.1,7,2,No,Mobile Money,No,15/04/2025,3
+874d59f6-e647-4f29-9b54-1ef023d85669,Basic,17/02/2025,1,51,Other,41.2,3,0,No,PayPal,No,11/4/2025,2
+5aced78e-b812-4af3-a272-edbe35fe7438,Standard,30/01/2025,1,53,Other,62.7,6,0,No,PayPal,No,21/04/2025,5
+c49b7799-5091-4680-9958-0be53f305d4a,Basic,14/04/2025,0,19,Other,30.8,2,0,Yes,Mobile Money,Yes,17/04/2025,5
+d84356d3-b07e-45b0-b829-ede9c2bae28d,Free Trial,8/10/2023,0,32,F,30.4,4,1,No,Mobile Money,Yes,11/4/2025,3
+78bb8c81-913c-4133-ab6b-75f3efa697bc,Basic,8/10/2024,1,51,F,65.5,4,1,No,Mobile Money,Yes,5/5/2025,5
+39b3711c-de25-4dbb-b048-db6604006a41,Basic,14/02/2025,1,53,F,23.4,4,0,No,PayPal,No,25/04/2025,5
+a4279f32-3d95-4909-9711-ecf80798029a,Basic,5/7/2024,0,23,Other,15.1,8,0,Yes,Credit Card,Yes,25/04/2025,3
+f7cd88f7-6459-4d22-9df4-d010130346fd,Basic,14/09/2023,1,56,F,27.6,5,0,No,Mobile Money,Yes,25/04/2025,4
+09b7a822-cc24-45c5-a9d1-3f7220e17733,Free Trial,29/10/2024,1,59,M,30.1,8,3,No,Mobile Money,No,2/5/2025,2
+21b25a7f-7a0a-490f-b6c8-7c8418721c8f,Premium,2/1/2024,0,68,M,13.8,5,0,Yes,Mobile Money,Yes,16/04/2025,4
+8d538392-f199-41e8-af76-6e5e7810d1ed,Basic,24/02/2025,1,68,F,38.1,7,2,Yes,Credit Card,No,30/04/2025,4
+7cf6e114-0eb1-41a1-a7c3-f5bd383c7a46,Basic,18/07/2024,1,29,M,54.2,8,1,Yes,Mobile Money,Yes,3/5/2025,2
+5f9aa7cf-34fc-4e78-929d-748f9c1998ea,Standard,22/10/2023,1,20,M,20.7,3,0,Yes,Mobile Money,No,16/04/2025,4
+ba93b1be-7cf1-4754-b310-253391ea48d7,Basic,19/04/2025,0,62,Other,41.3,4,1,Yes,PayPal,Yes,9/4/2025,3
+c79b72ff-ee5b-4065-87ba-a173c6f3d2e9,Standard,3/12/2023,0,35,F,45.9,6,1,Yes,Mobile Money,No,29/04/2025,2
+261f6233-66c2-4f25-9c76-c5a7ac7b4136,Premium,29/10/2023,0,57,F,38.7,4,1,No,PayPal,Yes,4/5/2025,1
+18c6eebc-6336-4c8e-b30f-b17f5a25b711,Free Trial,9/5/2024,1,38,Other,42.8,4,1,No,Credit Card,No,30/04/2025,4
+92d38981-77f6-4230-ab21-a77966dc4368,Free Trial,1/4/2025,1,32,M,43,6,3,Yes,Mobile Money,No,30/04/2025,5
+fe84fecf-d2d6-45ba-b5d9-72d9a4df8dbd,Premium,8/8/2024,0,50,M,27.8,2,1,No,Mobile Money,Yes,7/4/2025,2
+61197931-7a48-41fb-8b06-545810899a83,Free Trial,4/9/2024,1,52,F,62.5,4,0,Yes,PayPal,Yes,8/4/2025,1
+eb59bdf5-bbac-453a-b33d-727bda8020f9,Premium,12/7/2024,1,43,M,58.7,2,1,No,Credit Card,No,2/5/2025,5
+581ba430-a501-46cc-9a7b-b4b15d003dd7,Premium,29/06/2024,1,25,Other,57.8,8,1,Yes,Credit Card,Yes,2/5/2025,1
+b649dd50-9837-40f6-9498-148940037104,Premium,23/10/2023,1,53,Other,55.2,7,2,Yes,PayPal,No,20/04/2025,4
+65d2dc83-ac7d-410e-aa3a-125ddcdb9610,Free Trial,7/10/2023,1,65,F,16.4,2,1,No,Credit Card,No,4/5/2025,5
+69a5c8f4-6492-4f5b-b164-e2f482ce21ea,Standard,21/06/2023,0,47,Other,53.9,5,1,No,Credit Card,Yes,7/4/2025,4
+140d8408-f6f4-4d5c-8928-34f0815bbf77,Premium,16/03/2025,1,40,Other,49.8,6,3,No,Credit Card,Yes,15/04/2025,5
+5e1a3ba9-5663-4a05-940a-574a382543a9,Basic,22/02/2024,0,59,F,17,7,0,No,Credit Card,Yes,15/04/2025,2
+d663aa5b-b7a8-4eaa-9148-aed9ab807c91,Free Trial,31/01/2024,1,61,Other,36.8,7,0,No,Credit Card,No,22/04/2025,3
+315c51bd-f703-401f-bcfb-deeee18e5c59,Premium,10/8/2024,0,31,Other,44.2,7,0,No,Credit Card,No,20/04/2025,3
+42af0bbd-9e5a-4aa2-af69-ff6945171d5c,Premium,21/02/2024,1,31,Other,65,6,0,No,Credit Card,Yes,12/4/2025,1
+cfd4b850-df73-44ea-b280-44a9c32a402c,Basic,26/02/2025,0,19,M,50.9,5,1,No,Credit Card,No,10/4/2025,5
+e76b207d-285d-48ac-b36f-08c140c82c3d,Standard,26/06/2024,1,54,F,27,5,2,Yes,Mobile Money,No,26/04/2025,4
+b1566fb7-2789-4d73-87a1-e50695c9b4b9,Standard,2/5/2024,0,22,F,65.4,8,1,No,PayPal,Yes,19/04/2025,2
+61874bd7-e863-4bd0-a93c-e8875f3c8e77,Standard,22/10/2024,1,55,F,40.7,7,1,No,Credit Card,No,5/5/2025,2
+97fd2846-e234-4fd6-8915-26b0fadcfab0,Premium,28/04/2025,0,62,M,36.2,4,1,Yes,PayPal,No,10/4/2025,2
+7d6d74b1-6f85-448c-86eb-67fa2ffd48ae,Premium,31/10/2023,1,58,M,35.1,5,3,Yes,Credit Card,No,23/04/2025,3
+31a3e818-279f-42a3-b8b9-e2d4d53f9147,Premium,24/03/2025,0,64,F,15.6,8,0,Yes,Credit Card,Yes,28/04/2025,4
+11c65264-e635-4415-891d-1252fc44fad2,Free Trial,22/09/2023,0,31,M,38.4,5,2,Yes,Mobile Money,Yes,1/5/2025,2
+de261c3f-07ab-4ef9-bd61-d8e74c26d49d,Basic,15/01/2025,1,56,F,47.5,2,0,No,PayPal,No,5/5/2025,2
+842e8a6e-d3c0-463e-9ebc-9dfd31f3a092,Premium,12/12/2023,1,42,M,34.2,3,0,No,PayPal,Yes,6/4/2025,1
+c544e3dd-2df0-4311-89b7-ffd43ca24d9a,Basic,5/5/2025,0,37,Other,46.3,7,1,Yes,Mobile Money,No,27/04/2025,5
+31cf4d3a-2931-454b-bd0f-003a155fa171,Basic,18/07/2024,1,19,Other,27,3,1,Yes,Mobile Money,Yes,1/5/2025,5
+5382b1df-b821-4eaf-98ba-7401c7fefd57,Standard,28/09/2023,0,56,F,37.9,8,3,No,PayPal,No,20/04/2025,5
+f4bc7347-fbea-43e7-aad5-576f3eff0e3a,Free Trial,29/04/2025,0,23,M,44.7,1,0,No,Credit Card,No,15/04/2025,1
+81a23a9d-f2db-4453-99fb-13f18fb51950,Premium,5/2/2024,0,34,M,42.8,5,1,No,Credit Card,No,19/04/2025,3
+d1b730f0-aef9-4972-9233-cdeab3d555d7,Standard,15/09/2023,1,42,Other,15.9,3,1,No,PayPal,No,21/04/2025,1
+fa730461-b5d4-4db8-9f10-6c0e147ab4f6,Standard,17/03/2025,0,45,Other,33.4,5,0,Yes,Credit Card,Yes,10/4/2025,2
+d0b2e520-5f80-4ae4-82db-f7e4b7522ffa,Premium,6/10/2023,0,19,M,65.2,5,1,No,Mobile Money,No,10/4/2025,4
+cc33859f-00dd-4a29-95ae-9c7f34b60de7,Basic,6/8/2024,1,52,M,32.6,2,1,Yes,Mobile Money,No,15/04/2025,2
+f2f4ed2a-c2df-4a13-9243-f88a9517c15f,Standard,10/7/2024,1,54,M,40.2,7,1,Yes,Mobile Money,Yes,23/04/2025,2
+7ea804cd-aa90-4efa-bcc7-cd2edde408ba,Basic,7/12/2024,1,22,M,38.7,2,1,Yes,PayPal,Yes,11/4/2025,4
+86fe8647-ba08-4be5-b1d2-7241addf39c9,Free Trial,3/5/2025,1,18,M,63.5,4,0,No,PayPal,No,10/4/2025,5
+e16dd18e-4325-453e-86f2-76a2cf294c77,Basic,15/09/2023,0,57,M,59.4,5,2,Yes,PayPal,No,27/04/2025,1
+4596f6b1-2d44-43cd-98d9-0f1709b8c39a,Free Trial,10/6/2023,0,29,F,52.1,4,0,No,Credit Card,Yes,13/04/2025,3
+b29c5269-9ea2-4c62-84d3-f029ae311f78,Basic,28/06/2024,0,53,M,25.4,4,1,Yes,PayPal,No,11/4/2025,2
+ecd9d7d4-7548-44c3-b2c8-a4590af95574,Standard,25/05/2024,0,62,Other,45.4,5,1,No,PayPal,No,19/04/2025,2
+19aa6397-4657-4cea-b4fd-7aca7f353404,Standard,2/5/2024,1,40,F,48.5,4,1,Yes,Mobile Money,No,8/4/2025,3
+4c0b73da-68e0-4e63-9dbc-3438e8850664,Free Trial,10/2/2025,0,64,M,29.5,4,0,Yes,Credit Card,No,25/04/2025,1
+ade95726-079e-4653-8958-ad68060b787e,Premium,14/07/2023,0,48,Other,26.9,5,0,No,Credit Card,No,24/04/2025,2
+e62ac99a-a6e8-4a68-93ab-a9e131539a42,Free Trial,15/09/2024,1,28,F,65.6,7,0,No,Mobile Money,No,7/4/2025,3
+ce62f807-4136-4f14-80ff-33dc0e65288f,Free Trial,24/08/2024,0,27,Other,35.5,6,2,Yes,Credit Card,No,13/04/2025,2
+97c24bb4-e024-4266-ba1b-c8a7dd74418b,Basic,11/9/2024,0,20,M,64.2,6,3,Yes,PayPal,No,19/04/2025,5
+64a4b244-b75a-4503-a73a-ff2b4d6472c9,Basic,9/1/2025,0,31,M,55,8,1,No,Credit Card,No,22/04/2025,5
+2f54ea0b-7513-4ac9-a07a-f0af6f39cee2,Free Trial,12/11/2023,0,33,M,46.1,5,0,Yes,Mobile Money,Yes,30/04/2025,2
+ae43b3e8-ce65-4cb1-a5e1-9eb3e585a533,Standard,15/05/2023,0,27,M,46.8,2,0,No,Credit Card,Yes,10/4/2025,2
+0a8cca8d-9731-4099-b6a1-5f0d1417666b,Basic,8/11/2023,0,46,F,19,4,1,No,Mobile Money,Yes,23/04/2025,5
+86d779ee-f2d4-45ea-82c9-2d10091772fa,Premium,18/01/2024,1,27,F,43.1,6,1,Yes,PayPal,No,8/4/2025,2
+cd169dcf-4a2a-4e2e-98ec-158f8ae91dcc,Basic,6/9/2023,1,29,Other,61.3,3,1,No,PayPal,No,5/5/2025,1
+67225a76-dc67-4c59-af3d-2c91979bfb7e,Basic,11/8/2024,0,47,M,50.2,3,0,Yes,Mobile Money,No,10/4/2025,1
+1b491941-d9b3-439c-8468-7b6a68e07984,Premium,12/2/2024,0,58,Other,42.3,5,0,No,PayPal,Yes,5/5/2025,4
+2bd540f5-6068-4c7a-8dd7-8f269bb38133,Free Trial,1/5/2025,1,18,F,65.7,5,1,No,PayPal,Yes,11/4/2025,1
+ddd34563-e734-4407-88e9-24217eb422ad,Premium,23/01/2025,0,22,M,37.2,6,1,Yes,Credit Card,No,5/5/2025,2
+d82c64b0-524f-47d3-9b70-8c164c62a1ad,Free Trial,29/05/2023,0,37,M,30.7,2,0,No,PayPal,Yes,17/04/2025,2
+8f531de4-cbd2-42ea-a4cf-a0e3fda77cfe,Free Trial,21/12/2023,0,25,F,42.3,6,1,Yes,Mobile Money,Yes,28/04/2025,3
+83724426-0de9-40ae-bec7-a4c73f367c07,Free Trial,14/04/2024,1,60,F,51.5,4,2,No,PayPal,No,14/04/2025,1
+61209864-34a7-4c9c-b154-8a2670c69bdc,Premium,8/2/2025,0,29,F,14.2,3,0,No,Credit Card,No,2/5/2025,5
+aca894b7-8d1e-44ce-8e9a-1a98ce4f9bdc,Free Trial,24/05/2023,1,18,F,44.3,4,1,No,Mobile Money,Yes,28/04/2025,5
+fc1ce8e1-993a-46c7-9d78-07de9f92c769,Standard,20/09/2024,0,37,F,52.2,2,2,No,PayPal,No,23/04/2025,4
+47f31cae-97d8-4873-a86b-13edb1abc85b,Premium,14/07/2023,1,45,M,36,6,0,Yes,PayPal,Yes,23/04/2025,3
+32fc5c18-6958-4459-95a8-83565fb0e20f,Standard,4/12/2024,1,60,F,56.6,8,2,No,PayPal,Yes,28/04/2025,5
+654b933b-0afa-4c5c-83f6-6adf8a701f7d,Free Trial,26/09/2023,0,54,M,49.6,5,2,No,Mobile Money,Yes,6/4/2025,4
+a00a832f-7485-4705-82a8-c95efa5d8b6c,Basic,18/11/2023,1,64,M,72.1,6,1,No,Credit Card,No,10/4/2025,1
+504c8104-6e8e-41f9-813c-e46ce1a7065c,Free Trial,7/5/2023,0,54,F,28.7,5,0,Yes,Mobile Money,Yes,11/4/2025,3
+2dde8956-8e9e-4e5c-87a1-b90d73b9db86,Standard,20/05/2024,1,29,F,52.5,5,1,Yes,Mobile Money,Yes,13/04/2025,3
+9682e1cb-4fc7-4eb9-bcb0-eebc0e4b9b14,Standard,14/05/2023,0,54,M,24.7,6,1,Yes,Credit Card,No,24/04/2025,2
+5ddfe782-4129-470a-83ac-57d6d07912e9,Premium,24/01/2024,0,66,F,15.8,4,0,Yes,Mobile Money,No,16/04/2025,1
+d9038f7b-7868-4446-b774-ffe5bcf442c3,Basic,31/12/2024,1,66,F,9.5,4,3,No,Mobile Money,Yes,17/04/2025,3
+7a03ed34-a07d-4f43-b06f-e72f155a661a,Premium,22/08/2023,0,61,F,48.1,5,0,No,PayPal,No,28/04/2025,4
+e0db1d92-8b47-4a3a-931d-9cee0a5df4c7,Standard,10/10/2023,0,45,Other,42.8,5,0,No,Mobile Money,No,27/04/2025,5
+584ab80e-f162-4c8a-b843-b19eb4289ee8,Free Trial,25/04/2024,1,64,M,32.8,4,0,Yes,PayPal,Yes,21/04/2025,1
+66025083-5636-4869-b334-1289e504fe87,Basic,10/1/2024,0,32,Other,13.4,4,2,Yes,Mobile Money,No,11/4/2025,1
+33e66123-0ee7-4ab8-bd74-c4b79d3cd782,Free Trial,19/08/2023,0,23,F,29.6,7,2,No,PayPal,Yes,27/04/2025,3
+26835900-0f4b-43fa-9102-14366f29f103,Free Trial,26/02/2024,1,61,Other,40.1,5,2,No,PayPal,No,1/5/2025,3
+350ebd36-5f05-4265-8329-75cc7abc2a50,Basic,3/7/2024,1,37,F,51.9,4,0,No,PayPal,No,27/04/2025,3
+39007963-48ae-4c3c-8f6d-8869376d6cb5,Premium,12/11/2024,0,67,Other,39.8,3,0,Yes,Credit Card,Yes,14/04/2025,4
+bd0b7069-625c-4d0f-b84c-3845901093f7,Free Trial,26/02/2024,0,31,F,43.8,9,4,No,Mobile Money,Yes,20/04/2025,2
+b22639c3-1f3e-4cf8-a353-62fa014bf9b1,Standard,24/07/2024,1,19,Other,34.4,6,1,No,Mobile Money,No,12/4/2025,3
+97462a6b-a9c3-44c3-b9a4-438a7c04825b,Free Trial,13/07/2023,1,26,Other,66.2,6,2,Yes,Mobile Money,No,10/4/2025,2
+983f2d0e-30d0-40f7-8d9d-ba012b0a0427,Basic,20/09/2024,0,54,Other,24.7,4,2,Yes,Credit Card,No,27/04/2025,2
+1065d2fb-288b-4e2a-a570-4193908b3d3c,Basic,13/07/2023,1,37,M,29.5,7,3,No,PayPal,Yes,26/04/2025,1
+acb4e39e-9001-45bb-bfca-7c8ae6a2ad02,Basic,11/7/2024,0,43,Other,32.6,6,0,Yes,Mobile Money,No,24/04/2025,5
+a01fe31b-a614-4d5a-9435-a8ab5c9d67aa,Premium,17/08/2023,0,46,M,48.1,6,1,No,Credit Card,Yes,14/04/2025,5
+c0a604a6-03fd-4135-83db-6496bb611390,Free Trial,19/08/2023,0,18,F,24.4,2,1,No,Credit Card,No,7/4/2025,4
+2d8c97e5-fc7f-473c-b424-050322873c0e,Premium,12/11/2024,0,52,Other,42,6,2,No,Mobile Money,No,30/04/2025,4
+557d9d13-1c75-40bc-95d3-5a599e59d965,Premium,21/03/2025,0,23,F,42.5,4,0,No,PayPal,No,25/04/2025,5
+513e940a-b93a-4157-826b-f264b9f081c3,Basic,7/7/2023,1,54,F,29.6,7,1,Yes,Credit Card,No,29/04/2025,5
+0ad0367e-1452-4395-8444-d77705b62476,Basic,2/1/2024,1,22,Other,44.9,8,0,Yes,Mobile Money,No,29/04/2025,1
+333d1e26-c054-423a-b101-80bcbf90aed1,Premium,23/06/2023,1,50,M,24.9,6,1,Yes,PayPal,Yes,2/5/2025,1
+51263706-f515-4a35-8a3c-d692e909e4b7,Free Trial,11/6/2024,1,66,Other,23.2,3,1,No,Credit Card,Yes,24/04/2025,5
+97ca6767-e000-475e-9755-a770b52bf53a,Standard,15/07/2024,0,68,F,41.5,4,0,No,Credit Card,Yes,1/5/2025,3
+f042905b-4200-49ad-be35-0b108e299a58,Premium,11/5/2023,0,31,F,15.1,5,1,No,Mobile Money,No,29/04/2025,3
+e27c644c-6044-4fd1-b79d-5f5c26fe34e9,Free Trial,23/03/2024,0,29,Other,7.8,3,0,Yes,Mobile Money,Yes,12/4/2025,1
+7c97207d-b9c8-4b1c-a588-1f7645caedb5,Basic,4/6/2024,0,59,M,48,5,1,Yes,PayPal,Yes,28/04/2025,2
+64fe3628-66d6-487e-a516-ee4b15c53a0d,Basic,29/01/2024,1,37,M,55.7,8,1,No,Mobile Money,No,6/4/2025,5
+1079e40e-5f43-4cf9-8e90-8d5645156cbe,Free Trial,16/06/2024,0,67,F,33,8,0,Yes,Mobile Money,No,29/04/2025,4
+370d02c1-b198-42cb-91de-3e06c48a54c5,Standard,24/05/2023,0,41,F,30,5,0,Yes,PayPal,Yes,25/04/2025,3
+83470332-8468-4df1-9c06-7ceb9ca2737f,Basic,1/3/2024,1,60,M,55.1,5,1,Yes,Mobile Money,Yes,24/04/2025,2
+1dbb1290-ec89-4a8c-9f01-e324febfb832,Basic,21/06/2024,1,51,Other,22.8,8,1,Yes,PayPal,Yes,30/04/2025,3
+a2c57645-c133-4884-bf0b-8b1deb15a460,Basic,12/11/2024,1,42,F,19.5,5,1,No,PayPal,Yes,16/04/2025,2
+cec84db4-327e-412a-80c3-a4ac3851ad88,Free Trial,25/05/2023,1,67,M,50.6,4,1,Yes,PayPal,Yes,24/04/2025,5
+123d37bd-4ff8-49a6-a93a-562ba2b414b6,Premium,23/06/2023,0,46,F,40.1,3,0,No,Mobile Money,Yes,3/5/2025,5
+9e187c10-a87d-4709-9bb2-57eb5c128e74,Basic,4/7/2023,0,56,Other,56,7,0,Yes,PayPal,Yes,18/04/2025,5
+1fb73361-dba3-42ca-9bb6-aca555756bfd,Premium,8/6/2024,1,48,M,7.9,4,0,No,Mobile Money,No,2/5/2025,1
+2100bc87-9678-4694-9337-0d40af7001d5,Standard,1/3/2024,0,64,F,19,4,0,No,PayPal,Yes,11/4/2025,2
+0389fc9b-3874-464d-ad05-1ea64b426049,Basic,24/11/2024,0,60,Other,40.2,5,1,Yes,Mobile Money,No,20/04/2025,4
+c0b81148-7d29-404c-8218-9b1744f9481c,Basic,28/06/2023,0,67,F,46.3,3,2,No,PayPal,No,3/5/2025,4
+636a5faf-bf31-49b8-b83f-1c98f09f938c,Standard,21/11/2023,1,40,Other,52.7,5,1,No,Credit Card,No,7/4/2025,5
+e94cc798-2fab-4366-88f3-4fa05569c35e,Basic,1/9/2024,0,61,Other,42.6,4,1,Yes,Credit Card,Yes,22/04/2025,4
+86c62086-e483-4e6b-9606-ac0233ad0ad1,Premium,16/10/2024,1,55,M,42.5,6,0,No,Credit Card,Yes,18/04/2025,3
+1114d88a-c1fc-4c8e-aa39-41446757e4e6,Free Trial,26/09/2023,0,37,Other,34.2,5,0,Yes,PayPal,No,7/4/2025,2
+04a4ed11-3210-4552-8f22-e7fe424b6ab7,Premium,29/12/2024,0,40,F,63.9,5,1,No,Mobile Money,Yes,18/04/2025,2
+56c3d608-56ed-4f87-9616-f59cbdcaa1c3,Free Trial,8/3/2024,0,62,Other,23.5,2,2,Yes,PayPal,Yes,8/4/2025,2
+d5e70e32-6ed0-4788-99cc-e848b43f5001,Free Trial,28/01/2025,1,69,Other,45.4,5,0,Yes,PayPal,No,12/4/2025,3
+ccf466f7-1684-4980-9fd1-fc619b1c7a54,Premium,12/12/2023,0,33,M,25.2,3,1,Yes,PayPal,Yes,4/5/2025,1
+e00c36fc-d373-4ea6-842a-37fb31690cc7,Premium,15/12/2023,1,67,Other,48,3,0,Yes,PayPal,No,16/04/2025,3
+0494aaa9-947a-4bcc-af50-fa4846623fe2,Premium,13/05/2024,1,59,Other,24.4,5,2,Yes,Mobile Money,No,9/4/2025,2
+b0c11828-74c1-4079-a44a-df53001b8295,Premium,29/01/2025,1,25,F,51.2,4,0,No,PayPal,No,11/4/2025,2
+7e1d9395-e078-4304-a4ca-1a70c78db007,Standard,21/06/2024,0,67,M,41.7,3,1,No,Credit Card,No,14/04/2025,2
+2b9a7748-52e2-4fcf-a415-742a507c87e7,Basic,13/07/2023,0,38,M,66.2,4,1,Yes,Credit Card,Yes,3/5/2025,4
+14f15f86-57e4-4414-8c16-bf4084b0ad80,Free Trial,27/06/2023,0,18,M,35.8,2,3,No,Credit Card,No,21/04/2025,1
+9f0b4462-4ca6-454e-a44c-6bc450af6722,Premium,28/03/2024,0,25,Other,46.4,6,0,No,PayPal,Yes,30/04/2025,3
+be2b5a3a-417f-42bf-ab18-708e617a3424,Premium,19/09/2023,1,46,M,28.3,7,1,No,Mobile Money,Yes,16/04/2025,2
+ccc60f66-0623-4688-84a8-fb0ff2d21771,Premium,21/09/2023,1,49,Other,35.7,3,0,Yes,Mobile Money,Yes,18/04/2025,5
+6d07e53c-d837-45c6-8c25-488f3ac35d05,Standard,6/6/2024,1,55,Other,41.6,5,1,Yes,Mobile Money,Yes,3/5/2025,1
+83b6ea70-9877-49d2-a8e9-bf54057f3c47,Premium,29/07/2024,0,22,F,17.1,4,0,No,PayPal,No,19/04/2025,5
+4134d6f0-a187-43ca-bdb8-913f53fde8c8,Premium,2/3/2025,1,64,F,18.7,6,0,Yes,Mobile Money,No,28/04/2025,1
+e8b57f0e-43f0-4862-9dde-57c7d6187b39,Premium,20/07/2024,0,39,F,49,6,2,Yes,Credit Card,No,7/4/2025,2
+3d5ef234-fb8d-43cc-a251-4d1c29992fe5,Basic,13/11/2024,1,64,F,37.8,2,0,No,Mobile Money,No,29/04/2025,1
+f95f8659-6c83-4f7a-adda-e775637e589c,Standard,13/08/2024,0,51,F,31.1,2,0,Yes,PayPal,No,3/5/2025,1
+2e588a89-3bcd-4f24-88da-597ea35686d4,Premium,7/4/2024,0,18,Other,28.9,5,1,Yes,PayPal,Yes,11/4/2025,2
+3c48df7d-93d7-41d2-a13e-2233c4fcd562,Free Trial,5/3/2024,1,43,Other,29.5,2,1,Yes,Mobile Money,No,10/4/2025,5
+bc2d56c5-5e01-486f-9805-dac24e70cf98,Free Trial,5/1/2025,1,60,M,41.7,7,1,Yes,PayPal,Yes,20/04/2025,5
+943c3365-083b-4996-a590-091e9a151297,Free Trial,23/10/2023,1,27,Other,46.7,4,1,Yes,Mobile Money,Yes,29/04/2025,4
+78bf7367-7be1-4bb7-972e-00fffb70f8e2,Standard,11/11/2024,1,47,Other,8.6,5,0,No,Mobile Money,No,21/04/2025,5
+028c5939-6db9-457b-8fef-ea257600c73a,Standard,4/12/2023,0,67,F,61.2,7,2,Yes,Credit Card,Yes,26/04/2025,5
+53102755-a12f-4e23-9515-59e9306f8dd3,Free Trial,4/6/2024,1,35,Other,60.1,5,2,Yes,PayPal,Yes,27/04/2025,1
+26090502-a35f-4e2e-9734-0e99c6569941,Premium,21/07/2023,1,34,F,5,7,0,No,Credit Card,No,26/04/2025,4
+bbfb83f9-637e-4db2-84f5-6f3df29c8087,Standard,27/06/2024,1,43,M,56.3,1,1,No,PayPal,No,27/04/2025,2
+324ba542-05a7-44ea-b0e2-bdfc51ffcbc0,Free Trial,3/12/2023,0,25,M,55.8,3,0,Yes,Mobile Money,No,26/04/2025,2
+53e3433d-82e8-41dd-b409-09df519fd136,Free Trial,19/06/2023,0,64,Other,40,4,1,No,PayPal,Yes,22/04/2025,3
+a95b9145-0218-4c97-8cfc-8ca2138c0674,Premium,4/6/2024,1,57,M,20.5,9,0,Yes,Mobile Money,No,25/04/2025,4
+9131d74d-84a5-4f94-9fae-b49a795d9a89,Basic,30/07/2023,0,66,Other,55.2,4,2,No,PayPal,No,21/04/2025,1
+232d74c7-f346-4e00-a1d9-6d59074bbffb,Standard,18/08/2024,1,29,M,36.4,5,2,Yes,Credit Card,Yes,24/04/2025,3
+bb3da5f6-3688-47a3-8cec-87e9889fceb7,Premium,2/3/2025,0,44,F,48.2,6,2,No,Credit Card,No,4/5/2025,3
+20dedf4b-361d-4b89-9ed0-9ab4e93fb8f9,Free Trial,15/04/2025,0,25,F,73.3,6,2,Yes,Mobile Money,Yes,18/04/2025,2
+99a614e4-6fac-4024-b1b9-6198479a45a9,Free Trial,20/05/2023,0,42,F,43.8,3,2,No,Credit Card,Yes,1/5/2025,5
+b8a048d7-d5b2-461a-ae97-43bccf89160f,Premium,12/1/2024,0,63,F,26.2,3,1,Yes,Mobile Money,No,6/4/2025,1
+5ee98c1a-790c-4015-a2c6-2493bfe82948,Standard,19/12/2024,1,21,Other,35,5,0,Yes,Mobile Money,Yes,7/4/2025,4
+d184f7b0-3c9e-46e9-9d7b-50fd64c3db9f,Basic,16/04/2024,1,50,M,28.2,7,0,Yes,Mobile Money,Yes,5/5/2025,3
+d0198f90-3ba7-4ff5-81aa-99307bf8a498,Basic,13/10/2024,1,18,Other,46.5,6,0,No,PayPal,No,25/04/2025,1
+dbbaf601-cc28-4c98-bc1d-aff5d1469e51,Free Trial,19/11/2024,0,36,F,27.9,6,0,No,Mobile Money,No,25/04/2025,2
+e91b3e24-a9d1-42be-8200-10ea586ff534,Standard,1/8/2023,1,48,Other,32.9,4,3,Yes,Credit Card,No,29/04/2025,3
+b4bb41d6-22f5-42b9-b564-1c5c53ce855c,Basic,28/11/2023,1,33,M,20.7,7,2,Yes,PayPal,Yes,19/04/2025,3
+a2005dd8-0906-4f31-9038-e643060f05b8,Standard,27/03/2024,1,31,Other,38,4,0,Yes,Credit Card,Yes,9/4/2025,2
+cac4be4d-5880-4ae9-a523-b9a1519e0e94,Standard,5/3/2025,0,65,M,42.7,8,2,Yes,Mobile Money,No,26/04/2025,2
+a69a601f-da93-4062-be92-1dd1be34845e,Free Trial,28/06/2024,0,22,Other,0,5,1,No,Mobile Money,No,22/04/2025,2
+edc4c2a8-cb1c-4790-b509-54167772031a,Basic,10/9/2024,0,58,M,43.9,5,0,No,Credit Card,No,25/04/2025,1
+008268d2-36d5-4a1c-ab43-9e4ebff6834f,Premium,17/12/2024,1,43,M,39.3,4,1,No,PayPal,Yes,22/04/2025,1
+f9660ca3-5574-462a-bcaa-3d81a69f29b7,Free Trial,6/10/2023,1,45,F,28.5,5,0,Yes,Credit Card,No,3/5/2025,1
+d28b6a47-2f1c-4539-a534-e16ea3d24f5c,Basic,5/9/2023,1,19,M,70.4,2,3,Yes,Mobile Money,Yes,17/04/2025,5
+c6c231b0-91cf-4cba-8f4b-eb6eb296733e,Basic,29/10/2024,0,67,F,54.4,3,0,No,PayPal,No,9/4/2025,3
+fec9a840-d568-4c2f-ae89-2e8bec72f46f,Basic,11/3/2025,0,23,F,23.6,7,1,No,Mobile Money,Yes,3/5/2025,1
+01c46deb-e36e-466a-ac87-a6a977859754,Basic,16/12/2024,1,26,F,52.6,5,1,No,Mobile Money,Yes,2/5/2025,5
+7f7af747-e791-41b0-90f5-8be9dcd95824,Basic,28/12/2024,0,50,Other,58.7,6,4,No,Credit Card,No,23/04/2025,3
+12b0a0da-f017-42f2-826a-06700602e8f4,Standard,27/11/2024,0,58,Other,42,7,2,Yes,Mobile Money,Yes,6/4/2025,1
+3ebc2626-ffc9-4387-9c29-ebdb8971a00f,Free Trial,26/11/2024,0,42,Other,45.4,2,2,Yes,Credit Card,Yes,10/4/2025,2
+80ebb091-10fd-4462-ae1f-9624817b67d0,Standard,20/08/2023,0,65,Other,45.1,7,1,Yes,PayPal,No,17/04/2025,4
+60f9dbe3-d4fa-4c15-90ed-9d399ac6a943,Premium,19/04/2025,1,30,M,8.7,5,2,No,Mobile Money,No,10/4/2025,1
+2abf577d-f188-46ab-8335-54f9ce18f521,Basic,11/12/2024,0,26,M,37.2,5,0,Yes,Mobile Money,Yes,25/04/2025,4
+611b0716-3c56-454c-a549-3d8a57c557e7,Free Trial,24/11/2024,0,30,Other,36.4,7,0,No,PayPal,Yes,26/04/2025,1
+8f93f691-a424-465f-a36d-76de067e7530,Basic,6/6/2024,0,48,M,61.5,6,1,No,Credit Card,Yes,9/4/2025,2
+625de4e9-514f-4290-838a-a46ef7504d4c,Free Trial,7/1/2025,0,58,M,45,5,3,No,Mobile Money,No,4/5/2025,4
+39fe6b84-08f9-478a-9989-b15bd34a07b3,Standard,23/11/2023,1,28,F,35.5,0,3,No,PayPal,Yes,13/04/2025,5
+b8847c46-39a7-443b-a2d5-5f301d46b913,Free Trial,13/09/2024,1,21,F,38.6,7,2,No,Mobile Money,Yes,10/4/2025,2
+70c9b574-edf1-4f35-9e6b-5fc9d9b04e78,Premium,27/02/2025,0,51,F,55.4,5,1,Yes,Credit Card,No,28/04/2025,4
+e0926c18-0d36-4211-bc73-9c8c39b2e7a3,Premium,30/11/2024,0,55,F,37.2,5,1,Yes,Credit Card,No,2/5/2025,4
+797e638c-a452-4be8-bba0-7f3a33ccef63,Free Trial,31/03/2024,0,63,M,29.5,6,0,Yes,Credit Card,No,13/04/2025,2
+6990ad03-6964-491d-ad55-9b717b5d9ffc,Free Trial,27/09/2024,0,21,Other,35.9,8,0,No,Credit Card,No,18/04/2025,2
+b09b1328-0480-4e86-8d26-803a4a1b8d50,Free Trial,2/3/2025,0,55,M,54.1,4,0,Yes,PayPal,No,1/5/2025,2
+98a930c8-951d-436d-a1ce-a9f4b433c00d,Free Trial,26/11/2023,0,36,M,47.4,6,3,No,Mobile Money,Yes,3/5/2025,3
+b0cfe53a-88ee-4935-acd9-f5cf79a643a1,Premium,10/11/2023,1,23,M,40.7,4,2,Yes,PayPal,Yes,13/04/2025,5
+be58f355-7dc0-42e3-9c22-48a12c94d631,Basic,2/10/2024,0,51,F,42.9,1,2,No,Credit Card,Yes,8/4/2025,1
+e4e7aa58-faa2-482b-83db-a7329652eea0,Free Trial,8/7/2024,1,35,F,31.6,3,2,No,Credit Card,No,28/04/2025,4
+15a5c546-f755-4170-a79c-53b280d83ae6,Free Trial,19/01/2024,1,30,F,37.1,4,0,Yes,Credit Card,No,10/4/2025,1
+3309ba0c-0783-430a-bc9c-aa871ab6a7e6,Premium,1/5/2024,0,58,Other,30.1,5,0,No,Credit Card,No,13/04/2025,2
+2bc6ebd1-4bef-42b7-abf8-f7bf8e052d0f,Premium,12/6/2023,1,40,M,35.6,4,0,Yes,Mobile Money,Yes,20/04/2025,5
+96e6653b-3e5f-4afb-bdf8-4906d0549b92,Standard,18/08/2024,1,36,Other,60.2,5,1,Yes,Credit Card,No,24/04/2025,5
+3b4cf500-9da3-48fb-840d-ba1e6acfffdc,Free Trial,8/12/2024,1,62,F,23.8,2,0,Yes,Mobile Money,No,28/04/2025,3
+ce5bcf37-388c-4647-82f6-20690c365488,Standard,29/01/2025,1,28,Other,29.7,2,1,No,Credit Card,No,17/04/2025,2
+c0ca843f-ebed-4f32-bb21-31576a71037f,Premium,31/05/2023,1,18,M,21.2,5,0,No,Mobile Money,Yes,14/04/2025,4
+4e14125a-a09a-4b89-8a4a-7ab870ea84c0,Premium,9/7/2024,1,41,M,17.9,5,0,No,Mobile Money,No,1/5/2025,3
+04409035-5b35-44ef-aa0b-041f92c181db,Basic,28/10/2023,0,24,F,37.2,5,1,No,Credit Card,No,23/04/2025,2
+f00f3bb5-b878-4231-854c-890d6ac14def,Free Trial,9/6/2024,1,42,F,30.7,6,0,Yes,PayPal,Yes,5/5/2025,3
+113e7991-3f37-4268-906b-840ec420b37e,Standard,6/10/2024,1,38,Other,66.4,4,0,No,PayPal,No,16/04/2025,1
+632cdcb6-ef10-4ded-b7a3-3b165c366b12,Premium,20/11/2023,1,32,F,35.8,9,2,Yes,PayPal,No,25/04/2025,2
+28ea1f60-1be2-4320-b4af-25c13dcd30f2,Premium,28/12/2024,0,18,F,59.3,7,1,Yes,PayPal,No,28/04/2025,4
+2c5b076a-820d-4749-99f5-24f62d090be7,Standard,28/08/2024,1,29,M,54.5,2,1,No,PayPal,Yes,6/4/2025,4
+24c3d926-e321-45f9-ab61-223ed1ce8df7,Basic,9/12/2024,0,24,F,36.9,3,2,No,Credit Card,No,16/04/2025,2
+c3ee2d44-0458-4ee1-8c97-d4b26ca2c26b,Premium,8/6/2023,1,32,F,71.7,4,3,Yes,Credit Card,No,20/04/2025,3
+88a4c159-42c2-49d3-b046-2c462c7a2e29,Free Trial,14/12/2024,0,38,M,44,6,0,No,Credit Card,Yes,17/04/2025,5
+d1e55ef8-b2ba-47ab-b688-d837cbcbd84c,Premium,7/12/2023,0,36,M,62.7,7,1,Yes,Credit Card,Yes,29/04/2025,2
+49e4f3a9-ca74-4d3f-bf1f-e36a67b92cfc,Free Trial,16/11/2023,1,46,Other,60.9,4,4,No,Credit Card,No,8/4/2025,4
+7bbaf938-2994-454c-9d06-70a805386fa0,Standard,23/12/2024,1,42,F,46.2,5,2,No,Credit Card,Yes,12/4/2025,1
+72abd154-87f1-40c6-ab34-fee969d41eb6,Free Trial,15/06/2024,0,50,M,51.3,5,1,Yes,Mobile Money,No,10/4/2025,4
+ed9ea516-360a-4f34-abb5-c11b1d1ddd4a,Standard,19/12/2024,1,66,Other,49.4,3,2,Yes,Mobile Money,Yes,2/5/2025,5
+41e42c30-bb4e-460b-9064-fe66b059628d,Free Trial,8/10/2023,0,49,Other,22.8,3,2,Yes,Credit Card,No,4/5/2025,4
+7e893e6b-01e9-4eec-b534-d328052897b0,Standard,9/11/2024,0,66,F,40.9,7,0,No,Credit Card,No,11/4/2025,5
+8a4c40ef-bd9e-4343-8ce8-22cdc3352ff2,Free Trial,3/2/2024,0,52,F,56.1,3,1,No,Mobile Money,No,14/04/2025,2
+0ee8761e-8571-40a3-8bc1-66d3fd75bf9b,Basic,5/5/2024,0,61,Other,62.9,8,3,No,Mobile Money,Yes,24/04/2025,4
+85ebb96d-6894-45c5-be56-8557d70a7966,Free Trial,31/05/2024,0,55,M,29.2,8,1,Yes,Credit Card,Yes,24/04/2025,3
+79ebcb76-325d-4732-b9d7-afef73bc5699,Free Trial,7/3/2025,1,43,Other,47.9,5,0,Yes,Mobile Money,No,8/4/2025,3
+b47fb662-397d-4bb5-a946-9302c6f5f6ad,Basic,3/7/2024,0,28,F,42.3,5,1,No,PayPal,No,21/04/2025,4
+b52a428a-705e-4a69-a894-67670d8f8d40,Premium,27/12/2023,0,52,M,38.2,3,0,Yes,PayPal,No,26/04/2025,4
+4310b767-421c-4e64-9401-90535f8d76f7,Premium,25/05/2024,1,25,M,45.3,3,2,No,PayPal,No,21/04/2025,1
+ed1f1966-98bd-4cf4-923a-d4a55a994303,Free Trial,23/07/2023,0,63,Other,43.3,6,2,Yes,Mobile Money,Yes,13/04/2025,4
+c3c011e8-49fe-445f-8714-493cf15b60e3,Basic,16/04/2025,1,31,F,48.1,5,0,No,Credit Card,Yes,13/04/2025,1
+156309b7-c20b-465a-9b04-2a872615dc37,Free Trial,22/03/2024,1,27,Other,61.6,4,0,No,Credit Card,No,2/5/2025,1
+123e79a6-be74-434b-9139-7ddc8710f882,Standard,26/01/2024,1,19,Other,51.8,6,2,No,Credit Card,Yes,30/04/2025,1
+73692ddb-e192-40dd-8366-75482be0b849,Standard,14/09/2024,0,63,Other,44.7,3,0,Yes,Mobile Money,Yes,30/04/2025,1
+a4b87eb6-8693-456e-bb40-9715c4cb8cc1,Free Trial,10/3/2024,0,26,M,68,12,5,Yes,Mobile Money,Yes,7/4/2025,2
+96c49737-5144-4374-a9c0-7480b03e7a5a,Premium,1/3/2024,0,20,M,56.6,1,1,No,PayPal,No,25/04/2025,3
+5cf30b59-d35d-40d2-b4a3-f87f81269534,Premium,27/01/2024,1,38,F,38.6,6,1,No,Mobile Money,No,20/04/2025,1
+56d8e7d7-fcc3-46e4-8fc2-6fabfb38424a,Free Trial,6/11/2023,0,43,F,21.7,1,0,No,PayPal,Yes,28/04/2025,3
+2243bd03-adf0-4a44-8871-b9a69497201c,Free Trial,20/09/2024,1,25,Other,25.2,6,2,No,PayPal,Yes,11/4/2025,1
+1cc335af-bc2d-4704-80ab-bdb430515942,Standard,17/10/2024,0,65,Other,54,1,1,No,Credit Card,No,30/04/2025,3
+f699b89a-de35-4851-89c5-b45165582e6c,Premium,2/12/2024,1,19,Other,30.5,4,1,No,Mobile Money,No,14/04/2025,4
+c8f92fb7-67d0-42e5-bfe6-6252cc4feca0,Free Trial,25/05/2023,0,23,F,24.9,3,0,Yes,Credit Card,No,2/5/2025,4
+f8417ee5-db19-4497-a95a-b489560a8bbb,Standard,19/05/2023,0,45,M,28.6,3,1,Yes,Credit Card,Yes,27/04/2025,3
+7e712b42-8f23-4aaf-adcd-00ed67cea0c4,Premium,22/08/2023,0,46,M,29.7,5,2,Yes,Mobile Money,Yes,1/5/2025,1
+dc3eb533-9853-43dc-bac5-559e4e4477ab,Basic,19/07/2023,1,43,Other,52.8,5,0,Yes,Mobile Money,Yes,3/5/2025,2
+67f466d0-a2d3-4ccb-9d27-2fd01fa2347d,Standard,19/02/2024,1,42,Other,37.6,5,2,No,PayPal,No,2/5/2025,3
+8ecd6e4d-1c86-4932-b6c3-f735af97b854,Premium,13/02/2025,0,29,Other,19.4,9,1,No,PayPal,No,6/4/2025,5
+5a3f3a7b-5341-4ac9-ba4e-7f94a30107c7,Premium,16/02/2024,0,22,Other,40.5,3,0,No,PayPal,No,14/04/2025,2
+8dec692b-6db4-48aa-b975-f7387f9fd54d,Standard,17/10/2023,1,51,F,43.3,3,1,Yes,PayPal,No,14/04/2025,5
+de0eb413-871d-4360-aa7e-b77a7b6fde85,Basic,30/08/2023,1,65,M,32.8,6,5,Yes,Credit Card,No,13/04/2025,3
+ec256194-65e9-4585-8375-6d7f25ed97af,Standard,2/7/2023,1,54,Other,57.3,6,3,No,Credit Card,Yes,16/04/2025,1
+dbd9d238-703a-473c-ba69-0cad4f283ab8,Premium,12/2/2024,0,32,F,33.7,3,3,Yes,Mobile Money,Yes,21/04/2025,5
+032e137b-2be8-4634-95b9-59cf5498448c,Free Trial,3/8/2024,1,61,Other,56.6,7,2,Yes,PayPal,Yes,25/04/2025,3
+9bf87e5d-00ea-477e-9246-896785c029a0,Free Trial,11/8/2023,0,53,Other,49,4,1,No,PayPal,No,20/04/2025,2
+dea2cec1-a67a-453c-bae0-61a362145e8d,Standard,5/9/2024,1,32,M,53.9,1,2,No,PayPal,Yes,17/04/2025,1
+6e09a0d6-e030-4d05-b0e8-2e4619614792,Premium,20/12/2023,0,60,Other,23.5,7,0,No,Credit Card,No,12/4/2025,5
+1c9daaad-eab8-484b-bda0-164ec66448c6,Free Trial,19/01/2025,1,65,M,41.5,7,1,Yes,Mobile Money,Yes,9/4/2025,3
+11365359-2dd6-40b0-a1c1-d675b43c7fb4,Premium,1/7/2023,1,40,M,39.2,2,0,No,Credit Card,Yes,28/04/2025,1
+adcbe96e-1158-45e0-8824-efb29b6fb3dd,Standard,5/10/2024,1,23,M,18.7,5,1,No,Mobile Money,No,14/04/2025,1
+35827f94-cd91-4d99-882d-3a20e1a13972,Free Trial,22/07/2024,1,63,F,56.6,6,2,No,Mobile Money,Yes,7/4/2025,4
+da338706-eb9c-4705-8e6c-149956c2103f,Premium,20/08/2024,1,67,F,27.7,9,1,Yes,Credit Card,Yes,27/04/2025,1
+515ac787-528e-4302-b8e6-b626b61e8516,Free Trial,28/10/2024,0,61,M,30.9,3,4,Yes,Credit Card,Yes,25/04/2025,3
+61ffd2b7-255c-4221-b788-05ad9df8fac9,Standard,28/10/2023,1,60,Other,24.8,4,0,No,Mobile Money,Yes,11/4/2025,2
+53248128-e512-4684-820f-e4df36ca0d25,Premium,15/03/2025,1,62,M,50.5,10,1,No,Credit Card,Yes,2/5/2025,4
+bb4b9bd0-c438-41ba-8374-f19eaf3e9196,Free Trial,10/12/2023,1,38,Other,17.1,4,2,Yes,Credit Card,Yes,8/4/2025,3
+9a8a318e-aba1-4677-8aa3-2f90607debf2,Standard,24/02/2024,0,40,M,49.3,4,1,Yes,Mobile Money,Yes,19/04/2025,3
+15cef050-e077-4e28-9940-8b26f745c71e,Free Trial,24/09/2024,1,60,Other,55.7,4,1,No,Mobile Money,No,1/5/2025,3
+22d38e9f-f036-452f-9594-be08574e484c,Free Trial,30/03/2025,0,33,F,48.1,7,1,Yes,PayPal,Yes,28/04/2025,5
+cad89869-65ec-4731-a597-0ab18ceb278a,Basic,3/8/2024,1,64,Other,50.7,8,0,No,Credit Card,No,5/5/2025,5
+9f9f4a6a-1511-4261-9322-7d9da929f503,Basic,14/05/2023,1,32,M,51.4,6,1,No,Mobile Money,Yes,6/4/2025,2
+747e02e5-69d9-494a-a1f8-e4138b6b1203,Standard,18/08/2024,0,42,F,25.8,6,2,Yes,Credit Card,No,4/5/2025,3
+b0fb0371-6cf6-4d54-a328-7885bb5809f3,Basic,5/1/2025,1,53,Other,61.5,3,2,No,Credit Card,No,22/04/2025,5
+2fbe7ce4-bd8e-4da9-86f3-d9b2150744de,Standard,23/03/2024,0,28,Other,33.1,5,1,No,Mobile Money,Yes,23/04/2025,5
+700592e2-e211-475b-b55d-9864eff95f3e,Basic,21/12/2024,0,68,Other,39,6,1,Yes,PayPal,No,22/04/2025,5
+af56c753-7973-4229-b967-cd3c93a163ce,Free Trial,30/03/2025,1,32,Other,35,2,1,No,Mobile Money,No,22/04/2025,2
+5c3b2912-2741-4652-81ed-6169aed734a2,Standard,15/12/2023,0,21,Other,47.4,8,1,Yes,Mobile Money,Yes,8/4/2025,2
+0b4b0615-698b-4d20-974a-3c2eeb280dfd,Standard,12/12/2023,1,38,F,31.9,5,2,No,Credit Card,No,8/4/2025,3
+913a8dff-1adc-4404-b0eb-ead8d39e7213,Free Trial,22/12/2024,1,30,F,41,4,0,No,PayPal,Yes,10/4/2025,4
+98afb689-fb75-4131-969f-a6773575d5bf,Standard,15/06/2024,0,39,F,21.5,4,1,Yes,Mobile Money,No,24/04/2025,3
+9ea7e07f-38f2-411b-9cb0-2d2463b6c052,Standard,31/08/2024,0,36,F,57.5,2,1,Yes,Credit Card,No,12/4/2025,5
+c7333c73-f3a6-43a3-a381-6327b0b79d6b,Basic,5/1/2024,0,51,M,50.1,5,1,Yes,Mobile Money,No,26/04/2025,5
+6adf1bd9-a018-4f44-86cb-cf390f32ee95,Standard,14/03/2025,0,31,F,35.6,5,0,Yes,Credit Card,No,26/04/2025,1
+9faecab5-670e-4113-820c-b3385cef0fa4,Premium,25/06/2024,1,21,Other,33,4,0,Yes,Mobile Money,Yes,12/4/2025,3
+b8e85fd9-d3c1-47a1-8a22-9c7c7a591151,Free Trial,22/06/2024,1,65,Other,49.7,2,2,Yes,PayPal,Yes,14/04/2025,5
+388b3f71-2d38-4eeb-bd2e-f765fc63c2d0,Basic,21/11/2023,0,69,F,29.4,4,2,No,Mobile Money,Yes,27/04/2025,5
+a96e7443-d2e6-4cec-b763-ba864ab090c7,Basic,24/07/2024,1,63,Other,41.9,4,1,Yes,Credit Card,Yes,18/04/2025,4
+259a905a-1246-4276-b3d9-288dbc9fc2c2,Premium,13/07/2023,1,44,F,57.4,1,1,No,Mobile Money,Yes,20/04/2025,1
+8655989c-b833-4451-a123-9dc5bb99057f,Free Trial,27/03/2024,1,46,Other,27.8,8,0,Yes,PayPal,No,18/04/2025,3
+c33adc74-9094-4f0a-8051-4fc10f36b3e3,Free Trial,15/10/2023,1,64,M,45.5,4,0,No,PayPal,Yes,22/04/2025,2
+7ba3c30f-6918-4038-9a65-ff7dd870a0d9,Basic,28/01/2024,0,45,M,44.7,10,0,No,PayPal,No,1/5/2025,3
+ee8b8adc-d1e0-41ed-86e6-55ffcbd62806,Standard,7/10/2024,0,52,F,38.5,6,1,Yes,PayPal,Yes,7/4/2025,3
+d2456879-7902-4541-958e-de13c2846886,Basic,9/1/2025,1,25,F,32.4,3,3,No,Credit Card,Yes,30/04/2025,4
+5dece6a4-9fe2-46ef-a05b-d6433cc181ad,Free Trial,18/12/2024,0,33,F,58.2,6,1,No,Mobile Money,Yes,22/04/2025,3
+aa7367cb-54d8-47f1-b6c4-52348bdc8bf2,Premium,30/09/2024,0,59,Other,31,4,0,No,PayPal,Yes,30/04/2025,4
+ada6f4dc-b3fc-4ce0-a438-41ffedbb9376,Basic,22/09/2023,0,53,F,12.8,3,0,Yes,Mobile Money,No,19/04/2025,4
+6b574911-1e98-4772-9618-6a9933f3d938,Free Trial,10/2/2025,1,47,M,49.6,2,1,Yes,Credit Card,Yes,24/04/2025,5
+76b4d541-784c-4292-b183-2c333349f224,Basic,15/12/2023,1,35,Other,22,3,0,No,Mobile Money,No,19/04/2025,2
+22eb0508-cb14-48e1-8d0d-b019f8869459,Standard,21/10/2024,1,19,F,50.4,5,0,Yes,Mobile Money,No,6/4/2025,4
+6c7595c5-0e2b-4d3b-af55-bf9317e6aa96,Basic,3/3/2025,0,66,Other,60,3,0,Yes,PayPal,Yes,21/04/2025,1
+54400e2e-990d-4b31-bea4-8b55a8ca0f65,Basic,23/02/2025,1,30,Other,49.4,4,3,No,PayPal,No,19/04/2025,1
+281f2953-1828-479b-8537-b8482f3245f6,Free Trial,21/07/2024,1,21,F,56.1,3,0,No,Credit Card,No,1/5/2025,2
+fba9627d-0d7b-4095-a061-0e83d342b288,Free Trial,3/8/2024,0,43,Other,70.3,6,1,Yes,Mobile Money,Yes,18/04/2025,4
+afd926ce-d889-4468-991f-9946a9e00909,Free Trial,8/7/2024,1,42,M,54.5,5,1,Yes,Credit Card,No,27/04/2025,2
+e55bad87-4e9b-4ded-b41d-c2d8c347fee9,Basic,24/11/2024,1,47,M,45,5,1,Yes,Credit Card,Yes,1/5/2025,5
+c6d1bac3-af65-44c0-95e0-c006f0543a88,Standard,14/10/2023,0,28,Other,64.5,4,1,No,Credit Card,Yes,9/4/2025,1
+89c852c8-2fcc-49ee-9277-7510b5d2b037,Premium,23/04/2025,0,24,F,66.3,4,1,Yes,PayPal,No,13/04/2025,3
+7ec63546-0ba2-4cf0-972a-ac59addf31c4,Premium,29/10/2024,0,48,Other,66.5,6,2,Yes,PayPal,No,1/5/2025,1
+c6db9b9d-ec13-47d9-825d-fe1df27fdcde,Free Trial,28/06/2024,1,61,M,32.6,4,0,Yes,Mobile Money,No,26/04/2025,4
+c9b0c1d9-0348-4616-a92c-aa8f74019837,Free Trial,30/04/2025,1,27,Other,19.7,6,1,No,Mobile Money,No,17/04/2025,2
+2e3440fc-c10a-4653-80c3-4eff27597c95,Basic,27/06/2024,1,56,Other,31.7,4,1,No,Mobile Money,No,29/04/2025,1
+3ab74c2e-3227-4bc1-addf-9540f76f1f03,Premium,4/1/2025,0,30,M,50.6,5,1,No,PayPal,No,4/5/2025,3
+2d9abd43-cb6e-47b2-b078-caf4b7916871,Free Trial,21/12/2024,0,48,Other,42.4,5,1,Yes,PayPal,No,15/04/2025,3
+e5ec6239-e22e-4f56-87f2-13a26414fbc8,Standard,21/06/2023,1,24,Other,36.9,4,0,Yes,Credit Card,Yes,28/04/2025,2
+b8fdaecc-2e8f-4c66-ae00-89042a0dc0f2,Standard,28/03/2024,1,66,F,48.4,5,0,No,PayPal,Yes,9/4/2025,2
+06b2ad38-af96-452d-af98-ed6326eb8156,Free Trial,30/06/2024,0,59,F,17.9,3,1,Yes,Credit Card,Yes,26/04/2025,1
+653ad6fa-af86-4a0a-9627-1eb8f46eee20,Free Trial,17/09/2024,0,59,M,42.1,4,1,Yes,Credit Card,No,4/5/2025,4
+c027fe30-63f8-420c-a183-bff37b9eedb7,Premium,2/2/2025,0,53,M,56.8,6,0,Yes,PayPal,No,9/4/2025,5
+ef9ebcaf-831e-4ff2-a5a8-28b3e4a19666,Premium,26/12/2024,0,37,M,48.2,6,1,No,Credit Card,No,24/04/2025,3
+06dfe1de-23a3-4ba0-94d8-f5753b4f885d,Basic,12/5/2023,1,21,F,50.4,1,4,Yes,Credit Card,Yes,30/04/2025,2
+5c5d5333-6621-46e8-9ed0-21a5bd520143,Premium,6/6/2023,0,24,M,64,3,0,Yes,Mobile Money,Yes,16/04/2025,5
+1f37e894-8077-4db7-8654-6bdb9ea33e90,Standard,17/08/2024,1,18,M,39,4,2,No,Credit Card,Yes,20/04/2025,5
+20a36392-1b47-4a64-9d5a-dcabf0b9e4dd,Standard,22/02/2025,1,61,M,30.2,6,0,Yes,PayPal,No,10/4/2025,5
+82fc0e2e-a6cf-442e-83a4-35da28e30fb5,Free Trial,2/2/2024,1,62,F,57.8,4,0,No,PayPal,Yes,6/4/2025,4
+28022c0b-093d-4d10-bb16-54f29aebca0e,Premium,1/1/2025,0,59,Other,57.6,3,1,Yes,Credit Card,Yes,15/04/2025,2
+8655e1d5-06c7-4936-b2bc-ba7c9e3621cf,Basic,15/11/2024,0,64,M,48.4,14,1,No,Mobile Money,No,21/04/2025,3
+faea3593-9c3a-43e6-a319-e5e1628eeb43,Standard,17/10/2023,0,30,Other,37.6,5,1,No,PayPal,Yes,24/04/2025,2
+45b6ca1e-10fb-4466-8e2e-e3045a6186fe,Standard,11/6/2023,0,39,M,40,4,1,Yes,PayPal,Yes,3/5/2025,1
+d2e2bc0d-378a-4ab4-89a5-fb7718f4ceb3,Basic,27/02/2025,1,38,Other,20.8,5,2,Yes,Mobile Money,Yes,26/04/2025,3
+07ccc464-315c-4be1-b713-6570b3549355,Basic,5/10/2023,0,39,F,56.7,5,1,No,Credit Card,No,1/5/2025,2
+41b82f7a-d1f9-4688-a841-0ca14f46ea4a,Standard,31/12/2024,0,45,F,56.2,7,0,Yes,PayPal,Yes,10/4/2025,3
+958bdc00-a864-4781-b8d8-d3165fa5c60b,Standard,8/3/2025,1,26,M,20.3,7,1,No,Credit Card,No,20/04/2025,1
+4f97c2c2-6220-4147-ac2e-2b5a56d2cac6,Basic,30/07/2023,0,43,Other,53,7,1,Yes,Credit Card,No,9/4/2025,3
+3e7225f8-4f0b-4aa7-8c55-e02467267f46,Standard,17/01/2024,1,26,F,46.1,2,1,Yes,Credit Card,Yes,2/5/2025,5
+54aca0d6-4a58-4155-9c9a-e37cf893911c,Free Trial,8/4/2025,1,32,M,24.7,5,0,Yes,Credit Card,Yes,7/4/2025,4
+7d5c3b46-b619-443b-8abc-7c7fec11ba45,Free Trial,21/05/2024,1,27,M,21.9,3,2,Yes,PayPal,No,4/5/2025,1
+7972330a-559a-4a7f-bb16-56db745aad33,Basic,24/04/2024,1,41,F,45.6,7,0,No,Mobile Money,No,28/04/2025,3
+43eb63fb-c444-470a-a496-603165250420,Premium,10/10/2024,1,59,F,34,2,1,No,PayPal,No,1/5/2025,1
+1010076d-fa19-46e5-b5f5-1f5912db2429,Basic,24/12/2023,1,25,M,67.3,6,0,Yes,Mobile Money,No,9/4/2025,5
+bfb25de0-5929-46c3-8828-ac5450df5ebd,Basic,7/12/2023,1,41,Other,54.3,4,0,Yes,Credit Card,No,11/4/2025,4
+ec79451b-241f-4e30-b95f-eeeaf6833101,Premium,5/4/2025,1,33,Other,47.1,8,2,Yes,Mobile Money,Yes,18/04/2025,1
+1f321cda-1d74-485f-a4eb-6e4e17ba1576,Premium,22/01/2024,0,66,Other,47.8,5,0,Yes,Credit Card,No,27/04/2025,5
+ac3cb528-ff70-4c3c-a9da-d0b17404a624,Premium,25/08/2023,0,43,M,60,1,3,Yes,PayPal,Yes,10/4/2025,5
+a3a2a4fd-5d3f-4ae8-893e-24f297a024b9,Free Trial,9/6/2024,0,44,F,52.7,2,1,No,PayPal,No,17/04/2025,5
+a3d84cce-f10e-4e0b-a01f-c13a46be5f41,Standard,22/07/2024,0,54,M,47.5,3,1,No,Mobile Money,Yes,21/04/2025,3
+04665d74-fdc9-43c1-9eb1-01111fefb5bd,Free Trial,4/12/2023,1,21,F,25.3,6,1,Yes,Credit Card,No,5/5/2025,2
+1eed6110-4c3d-4a96-a14c-c9181c3d3d7a,Standard,8/9/2023,0,67,Other,85.9,8,1,No,Credit Card,Yes,30/04/2025,1
+2f3404f6-9c7f-4de6-9716-521564c87d1e,Free Trial,4/10/2023,1,41,Other,23.5,4,2,No,Mobile Money,Yes,21/04/2025,2
+0b5af2a4-e0ca-4365-8874-73f601c5dd17,Standard,26/07/2023,0,36,F,35.3,3,1,Yes,Credit Card,No,30/04/2025,5
+26133d72-7c63-44ca-800e-96e9ce9ac48d,Free Trial,2/10/2024,0,53,F,15.2,6,2,No,Credit Card,No,22/04/2025,2
+a86f15de-57f5-4f6c-a8f1-bd78bda3390d,Premium,4/6/2023,0,56,M,48.1,6,1,No,Credit Card,Yes,16/04/2025,5
+bec2d94c-82c8-4b5d-8826-235bbf7da410,Basic,30/06/2023,1,27,Other,42.3,8,0,No,PayPal,Yes,3/5/2025,5
+ab1901c1-acfc-4507-8e40-4f88a64a925f,Free Trial,14/09/2024,0,42,M,51.5,6,1,No,PayPal,Yes,11/4/2025,4
+d9dfe01b-2d29-462f-930e-561eea24e74b,Standard,24/12/2023,1,35,M,13.9,6,2,Yes,PayPal,No,21/04/2025,4
+0d4b450b-fd7f-4643-81e5-4f79f8ff848e,Premium,20/11/2024,1,36,M,56.7,5,1,No,Credit Card,No,22/04/2025,2
+84d27b77-04c7-401d-aa8d-3f9562ccab83,Free Trial,23/08/2024,0,53,Other,27.9,4,2,No,PayPal,No,17/04/2025,1
+7ebb9c3e-5a3f-47f9-a485-9b2cb69c5678,Free Trial,31/10/2023,0,27,M,37.8,5,0,No,Credit Card,No,16/04/2025,2
+2b5b52ef-908c-42c4-8cf4-ca2052ed63ee,Premium,13/05/2023,0,50,M,54,5,0,Yes,Credit Card,Yes,26/04/2025,1
+86c42c9e-7684-4e34-9f29-50a462404be0,Free Trial,7/1/2024,1,67,M,43.9,6,2,No,Mobile Money,No,27/04/2025,2
+08424be3-1059-41a8-90eb-99b167588f83,Basic,17/12/2024,0,22,M,45,11,0,No,Credit Card,No,24/04/2025,3
+5b1d0cce-176e-4ef3-a46b-2b2b71d19e1f,Free Trial,6/2/2024,1,64,M,52,8,2,No,PayPal,No,25/04/2025,3
+fa609db1-1c87-48b6-bbe2-075e897ddac6,Basic,14/06/2023,1,66,M,46.4,7,1,Yes,PayPal,No,18/04/2025,1
+8fc214c6-dfb6-49b5-96d9-52b8bc1fe6ec,Basic,3/6/2024,0,52,Other,34.9,7,2,Yes,Credit Card,No,11/4/2025,4
+31fac8a2-7fd9-4e9e-910e-9fcf8b420c1a,Premium,8/6/2023,0,61,M,37.5,4,2,Yes,PayPal,Yes,8/4/2025,1
+1c0abbf8-4bab-430f-af4a-375408e3ca04,Free Trial,6/8/2023,1,51,F,43.2,8,1,Yes,Credit Card,No,2/5/2025,2
+87ddbf0f-69a3-4b2c-ada4-c56f865ad75f,Premium,11/1/2025,1,50,M,26.6,6,1,Yes,Mobile Money,Yes,11/4/2025,5
+d59d9fa4-dc9c-4ea5-894f-4a8af19fe715,Free Trial,10/10/2023,1,38,M,54.9,2,1,No,Credit Card,No,1/5/2025,3
+75cab6b8-fb1a-4ed3-b177-74a08766d3e3,Free Trial,3/8/2024,0,34,Other,44.3,4,0,Yes,Credit Card,No,23/04/2025,5
+0d72ae42-b21d-453a-a9d6-4311f9dafc8d,Standard,28/05/2024,1,39,Other,41.1,0,1,No,Mobile Money,No,1/5/2025,3
+a9a7d4c5-c199-4e81-99c0-11c1542c8b5b,Free Trial,1/12/2024,0,65,F,57.9,6,1,Yes,PayPal,No,25/04/2025,2
+82ed9591-e1fc-4022-9d55-f2b3a464954c,Premium,19/11/2023,1,54,F,38.2,0,2,Yes,Mobile Money,Yes,6/4/2025,3
+23568daf-cd9b-4e2d-90bb-62d307feae90,Basic,1/6/2023,1,32,Other,37.3,7,0,Yes,Mobile Money,Yes,2/5/2025,1
+adfe264d-767a-440a-8340-a2da52c1edbf,Free Trial,15/07/2023,0,52,Other,32.7,9,3,No,Credit Card,No,21/04/2025,5
+3d69f2fd-76cc-46ef-8a41-b96358a41f47,Standard,21/10/2023,1,45,M,45.1,7,0,No,Credit Card,Yes,30/04/2025,5
+a3b4404b-23a0-45f3-8a38-0fa865b8d549,Premium,11/5/2024,0,24,Other,44.6,2,1,No,Mobile Money,Yes,20/04/2025,2
+a0ea62f2-f80c-4234-8935-bc2c65037b8b,Free Trial,24/04/2025,0,49,F,30,4,1,Yes,PayPal,No,10/4/2025,5
+710091da-78ae-4d3a-90c4-5eebc34560e9,Premium,1/4/2024,1,28,M,37.3,8,2,Yes,Mobile Money,Yes,15/04/2025,2
+bbfc9573-5122-4b41-8ca7-296c6712aa63,Standard,22/08/2024,0,27,F,30.1,5,2,Yes,PayPal,Yes,21/04/2025,4
+76742731-d753-4a29-b96b-4c7244e53d05,Standard,26/02/2024,0,26,M,29.4,5,3,Yes,Mobile Money,No,27/04/2025,1
+9b00d2ae-d907-448c-ad8c-258d2dd450fa,Premium,24/03/2025,1,31,Other,14.1,6,1,Yes,Mobile Money,No,17/04/2025,3
+f0c5dfd7-3fa9-42a9-bf8d-ba08080cbde1,Free Trial,20/04/2025,0,30,F,36.5,2,1,Yes,PayPal,Yes,20/04/2025,3
+0728ea7a-c797-4b6c-9d75-5ff21278ce01,Basic,29/11/2024,0,42,M,14.5,4,2,No,Mobile Money,No,1/5/2025,3
+d85fb736-e18e-46ec-a5da-0563c88b30bc,Standard,10/3/2025,0,19,M,33.1,7,0,No,Credit Card,No,26/04/2025,4
+5c5c68a0-67fd-4761-bcc4-81ac75d30d73,Free Trial,10/8/2023,1,52,Other,30.8,3,1,Yes,Mobile Money,No,17/04/2025,1
+4a272f8d-3881-42b3-88a6-598798a955cd,Free Trial,8/12/2023,0,24,Other,55.8,6,1,No,Credit Card,Yes,7/4/2025,5
+78294218-892a-41ee-be79-ca301546876f,Basic,9/2/2024,1,38,Other,24.8,2,2,No,PayPal,No,14/04/2025,5
+e25c6216-424c-491d-94d3-1e661f71daf4,Standard,11/1/2025,1,35,F,28.6,8,1,No,PayPal,No,22/04/2025,1
+d174b6af-61cb-46a3-8a29-ee25766afe5e,Standard,8/5/2023,0,20,M,34.3,10,2,Yes,Credit Card,Yes,12/4/2025,1
+94b61235-51d9-42a3-b45a-9aab2d8e0ca9,Free Trial,16/08/2024,0,59,Other,31.3,5,0,Yes,Mobile Money,Yes,20/04/2025,3
+4645f74f-fd0a-48b1-87fa-d693e5d4e96d,Free Trial,10/7/2024,0,56,F,60.5,4,1,Yes,Credit Card,Yes,20/04/2025,5
+bb3003cd-bbd6-4c51-9bd3-0ac468cd5ac3,Basic,27/09/2024,1,58,F,22.9,4,1,Yes,Credit Card,Yes,4/5/2025,1
+911c6e25-5f4b-48aa-ae76-eff28031f1f4,Basic,8/9/2024,0,66,F,34.3,8,0,No,PayPal,Yes,23/04/2025,5
+68eb58a8-3d67-438b-b5ba-ae0195e5b598,Standard,3/3/2025,0,28,Other,45,9,1,Yes,Credit Card,No,3/5/2025,1
+9192264f-7007-436c-a90d-0e18ab3508f1,Premium,7/8/2024,0,56,Other,53.2,7,1,Yes,Mobile Money,Yes,30/04/2025,2
+c2932bae-eaa7-48d8-ad25-31f11b26b879,Standard,1/4/2024,0,41,M,34.3,7,0,Yes,Credit Card,No,14/04/2025,3
+de355765-176a-4df3-b14a-f5e48b0c5cf3,Free Trial,4/4/2024,0,63,M,11.2,3,2,No,PayPal,Yes,15/04/2025,1
+87f4af08-42a1-4b62-8a6c-ffd518aa3b3b,Standard,13/02/2025,1,36,Other,37.7,8,0,No,Mobile Money,No,25/04/2025,4
+0143b3d1-3418-4c9d-b43a-e8d7da0ae066,Premium,12/5/2023,1,21,F,60.3,7,2,No,PayPal,No,14/04/2025,1
+dbb7ee94-db6c-4349-b10d-ffc066e238d9,Basic,23/01/2025,0,43,F,44.2,2,2,No,Credit Card,Yes,22/04/2025,2
+a62fccc8-b6b6-4bf9-b46f-0eda1db8bf06,Premium,25/05/2023,0,55,F,43.5,5,1,No,Credit Card,Yes,21/04/2025,4
+935781ef-19ef-4581-bd55-2f81483011b7,Premium,29/07/2023,0,59,M,24.1,7,0,Yes,PayPal,Yes,1/5/2025,4
+a893c4e8-cf6a-4bfc-86a7-8905e2a1f08b,Premium,28/09/2023,0,49,F,22.5,6,1,No,PayPal,Yes,12/4/2025,1
+3c72b0f1-6008-47f0-a345-839ddf135c3c,Basic,14/04/2024,1,56,M,40.3,1,1,No,Mobile Money,Yes,20/04/2025,2
+dc13a56b-1c73-4f81-9cb8-7d7ecbbe07a6,Premium,21/03/2024,0,62,M,18.6,3,2,Yes,PayPal,Yes,30/04/2025,4
+3fc01f43-1494-4164-995e-9aabc9f024ef,Premium,1/3/2024,1,63,F,51.7,4,1,Yes,PayPal,No,23/04/2025,3
+8147f79c-45ba-4034-bb49-f5a6a47a304e,Premium,4/7/2024,1,53,F,27.3,4,1,Yes,Credit Card,No,1/5/2025,3
+5fdd2eb1-8617-45f2-b89c-15665dba8e36,Free Trial,8/12/2024,0,57,Other,39.6,3,0,No,Credit Card,No,9/4/2025,5
+c53827f1-e5d5-4bf7-b756-1cfb0bb696b1,Premium,4/6/2024,1,54,Other,11.7,7,1,Yes,PayPal,No,23/04/2025,5
+55f13bad-4067-4502-abac-dd54ad479ed8,Basic,17/02/2025,1,50,F,34.1,9,1,No,PayPal,No,16/04/2025,2
+596d2eb8-65a5-42ff-87c4-05679f39308f,Premium,13/05/2024,1,53,M,22.2,4,2,Yes,Credit Card,Yes,18/04/2025,4
+ddedaece-0759-432b-b97a-c4d0266d9d74,Premium,11/7/2023,1,20,M,5.2,3,3,No,Mobile Money,Yes,13/04/2025,3
+171c6692-16b0-4701-8f1f-d943664cf897,Basic,12/5/2024,0,26,M,48.1,4,0,No,Mobile Money,No,18/04/2025,3
+0e7ee466-6e6e-4c3b-a958-a4f73563e919,Premium,19/02/2024,0,25,M,64.6,4,0,No,Mobile Money,No,4/5/2025,2
+088f50eb-cbaf-473e-b54a-bc16c3811ab7,Basic,23/11/2023,1,50,M,56.9,6,0,No,Mobile Money,Yes,25/04/2025,4
+e4893418-9255-4226-bafc-fcfa4fa0e9fe,Premium,7/9/2023,0,23,Other,50.2,3,2,Yes,Credit Card,Yes,3/5/2025,2
+30c45e69-2f03-47a8-8e65-0557e2faa884,Basic,30/06/2023,0,58,F,33.8,10,2,Yes,PayPal,Yes,6/4/2025,1
+85c63554-aeb1-436c-8431-2bc5b9a72f37,Premium,26/07/2023,0,56,Other,52.1,5,0,No,Mobile Money,Yes,29/04/2025,3
+306371c0-f743-4ad5-9ed2-82ed24829559,Premium,8/1/2024,0,21,M,58.4,5,3,Yes,Credit Card,No,10/4/2025,2
+c7b4db1d-92c6-4f79-8468-951d2ef9869e,Free Trial,30/12/2023,0,30,M,42.1,3,0,No,PayPal,No,20/04/2025,2
+ee55c59d-de20-4093-bd5f-813483467238,Free Trial,22/12/2024,1,66,M,22.2,2,0,Yes,Mobile Money,Yes,8/4/2025,1
+58cab762-2160-4e34-b4c2-7bb888bc7e8d,Premium,7/4/2025,0,19,M,32.5,7,2,Yes,PayPal,Yes,26/04/2025,5
+bae2ad8e-07d0-4246-8d35-aabb6b901603,Premium,14/08/2023,0,22,F,65.5,5,2,No,Mobile Money,No,17/04/2025,3
+9d6e108e-ad19-4728-869b-9e2472e4cd6a,Standard,5/4/2024,0,61,M,38.9,4,1,No,PayPal,No,15/04/2025,2
